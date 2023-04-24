@@ -1,0 +1,24 @@
+import React, { useState, useEffect } from "react";
+
+import productList from "../../utils/products.json";
+import { Product } from "@/types/types.ds";
+import ProductCard from "../ProductCard/ProductCard";
+
+const FeaturedProducts = () => {
+  const [products, setProducts] = useState<Product[]>([]);
+
+  useEffect(() => {
+    productList && setProducts(productList.products);
+  }, []);
+
+  return (
+    <div className="w-full h-fit flex justify-start items-center flex-wrap">
+      {products &&
+        products.map((product, index: number) => {
+          return <ProductCard item={product} key={index} />;
+        })}
+    </div>
+  );
+};
+
+export default FeaturedProducts;

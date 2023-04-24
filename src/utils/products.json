@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Promotor® 960 Real Time PCR System",
+      "caption": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
+      "description": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
+      "image": "/promotor960.png",
+      "isFeatured": true,
+      "bullet_points_title": "Product Features",
+      "bullet_points": [
+        "High purity and low CVs",
+        "High recovery rate",
+        "32 samples per run"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" }
+      ]
+    },
+    {
+      "name": "ACON® SARS-CoV-2 IgG/IgM Rapid Test",
+      "caption": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
+      "description": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
+      "image": "/aconsarscov2.png",
+      "isFeatured": true
+    }
+  ]
+}

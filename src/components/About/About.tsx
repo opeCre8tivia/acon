@@ -6,20 +6,20 @@ type Props = {};
 const About = (props: Props) => {
   return (
     <section>
-      <div className="w-full h-fit p-4 flex justify-center items-start flex-wrap bg-blue-950">
+      <div className="w-full h-fit  flex justify-center items-start flex-wrap bg-blue-950">
         {/* photo */}
-        <div className=" w-full sm:w-[50%] h-full">
+        <div className=" w-full flex justify-center items-end  border-b-white border-b-2 sm:border-none sm:w-[50%] ">
           <Image
             alt="delivery black man carying a box"
             width={300}
             height={300}
-            src={"/deliveryman.png"}
+            src={"/deliveryman.svg"}
           />
         </div>
 
         {/* text */}
-        <div className="w-full sm:w-[50%] h-full">
-          <p className="text-white text-sm">
+        <div className="w-full bg-white sm:bg-transparent sm:w-[50%] h-full p-4 ">
+          <p className="text-gray-500 text-[12px] text-justify sm:text-gray-300">
             We are one of the leading suppliers of medical equipment, who
             provide a broad range of high quality and competitively priced
             medical diagnostic and healthcare products. We constantly expand our
