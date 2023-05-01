@@ -12,7 +12,7 @@ const FeaturedProducts = () => {
   }, []);
 
   return (
-    <div className="w-full h-fit grid grid-cols-4 gap-2">
+    <div className="w-full h-fit sm:grid grid-cols-4 gap-2">
       {products &&
         products.map((product, index: number) => {
           return <ProductCard item={product} key={index} />;
