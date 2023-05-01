@@ -315,6 +315,76 @@
           "specifications": "AC 85-264V. 50Hz/60Hz, 600VA"
         }
       ]
+    },
+    {
+      "id": 7,
+      "name": "SARS-CoV-2 RT-PCR Test Kit",
+      "caption": "Qualitative detection of nucleic acid from SARS-CoV-2 in oropharyngeal swab, nasopharyngeal swab and deepcough sputum specimens collected from individuals suspected of SARS-CoV-2 by their healthcare provider",
+      "description": "Qualitative detection of nucleic acid from SARS-CoV-2 in oropharyngeal swab, nasopharyngeal swab and deep cough sputum specimens collected from individuals suspected of SARS-CoV-2 by their healthcare provider.Clinical correlation with patient history and other diagnostic information is necessary to determine patient infection status.",
+      "image": "/pcr-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "Specimens include Oropharyngeal and nasopharyngeal swabs, and deep cough sputum specimens",
+        "Target Regions N, E, ORF1ab",
+        "Qualitative detection of nucleic acids from SARS-CoV-2",
+        "High Accuracy 97.93 % (95 % CI: 95.56% – 99.24 %)",
+        "Full-process controls with negative, positive and internal controls",
+        "CE Marked"
+      ],
+      "tableRows": [
+        {
+          "feature": "Technology",
+          "specifications": "Real-Time reverse transcription polymerase chain reaction (rRT-PCR)"
+        },
+        { "feature": "Target Region", "specifications": "N, E, ORF1ab" },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Oropharyngeal swab, nasopharyngeal swab and deep cough sputum"
+        },
+        { "feature": "Internal Control", "specifications": "Yes" },
+        { "feature": "Minimum Sample Volume", "specifications": "200 μL" },
+        { "feature": "Test Duration", "specifications": "90 minutes" },
+        { "feature": "Limit of Detection", "specifications": "500 copies/mL" },
+        {
+          "feature": "Precision of In-batch and batch (CV)",
+          "specifications": "< 5 %"
+        },
+        {
+          "feature": "Positive Percent Agreement",
+          "specifications": "97.46 % (95 % CI: 92.75 % – 99.47 %)"
+        },
+        {
+          "feature": "Negative Percent Agreement",
+          "specifications": "98.26 % (95 % CI: 94.99 % – 99.64 %)"
+        },
+        {
+          "feature": "Accuracy",
+          "specifications": "97.93 % (95 % CI: 95.56% – 99.24 %)"
+        },
+        { "feature": "Storage Temperature", "specifications": "– 20 ± 5 ºC" },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        { "feature": "Package Size", "specifications": "32 Tests/Kit" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Promotor® HBV Quantitative PCR Test Kit(Real time)",
+      "caption": "This real-time PCR test kit is for quantitative determination of the hepatitis B virus in HBV-infected individuals. With a high sensitivity of 20 IU/mL.",
+      "description": "This real-time PCR test kit is for quantitative determination of the hepatitis B virus in HBV-infected individuals. With a high sensitivity of 20 IU/mL, this test kit is an excellent choice for HBV infection diagnosis, treatment decision making and viral load monitoring during antiviral therapy.",
+      "image": "/hbv-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "High sensitivity: 20 IU/mL",
+        "High precision: CV ≤1.5%",
+        "Wide linear range: 50-5.0 × 10^8 UI/mL",
+        "Internal quality control: prevents false-negative results",
+        "Specificity: no cross-reactivity with HAV, HCV, HEV and HIV",
+        "Package: 32 tests/kit"
+      ]
     }
   ]
 }

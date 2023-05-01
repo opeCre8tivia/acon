@@ -12,5 +12,5 @@ export interface Product {
   isFeatured: boolean;
   bullet_points_title: string;
   bullet_points: string[];
-  tableRows: Row[];
+  tableRows?: Row[];
 }

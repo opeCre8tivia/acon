@@ -80,10 +80,9 @@ const Details = (props: Props) => {
         {/* table section */}
         <div className="w-full h-fit flex flex-col items-end">
           <div className="mb-4 mt-4 flex justify-start  w-full sm:w-[50%]">
-            {" "}
-            Product Specifications
+            {product && product.tableRows ? "Product Specifications" : ""}
           </div>
-          {product && (
+          {product && product.tableRows && (
             <table className="w-full sm:w-[50%]">
               <tr className="bg-teal-300 text-white font-lg p-4">
                 <td className="h-[40px] py-2">Fature</td>
