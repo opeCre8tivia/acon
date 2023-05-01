@@ -22,12 +22,12 @@ const Details = (props: Props) => {
   const [product, setProduct] = useState<Product | null>(null);
 
   useEffect(() => {
-    if (id && products) {
+    if (id) {
       let _id = id as string;
       let _product = products.find((product) => product.id === parseInt(_id));
       _product && setProduct(_product);
     }
-  }, [id, products]);
+  }, [id]);
 
   return (
     <>
@@ -62,8 +62,8 @@ const Details = (props: Props) => {
             {/* ---- */}
             <p className="mb-3">{product?.bullet_points_title}</p>
             <div>
-              {product?.bullet_points.map((bp) => (
-                <div className="flex">
+              {product?.bullet_points.map((bp, index) => (
+                <div className="flex" key={index}>
                   {/* icon */}
                   <div className="w-[40px] h-[40px] text-teal-300">
                     <FaCheckCircle />
