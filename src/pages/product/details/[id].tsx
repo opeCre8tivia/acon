@@ -8,7 +8,7 @@ import NavBar from "@/components/NavBar/NavBar";
 
 type Props = {};
 
-const details = (props: Props) => {
+const Details = (props: Props) => {
   /**
    * page dispalays details of a product in a pre define format
    *
@@ -110,4 +110,4 @@ const details = (props: Props) => {
   );
 };
 
-export default details;
+export default Details;
