@@ -12,7 +12,7 @@ const FeaturedProducts = () => {
   }, []);
 
   return (
-    <div className="w-full h-fit flex justify-start items-center flex-wrap">
+    <div className="w-full h-fit grid-cols-3">
       {products &&
         products.map((product, index: number) => {
           return <ProductCard item={product} key={index} />;

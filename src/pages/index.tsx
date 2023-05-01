@@ -44,6 +44,20 @@ export default function Home() {
         <About />
         <SectionTitle title="Featured Products" />
         <FeaturedProducts />
+
+        <div className="grid grid-cols-4 gap-4">
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+          <div className="bg-green-500 ">01</div>
+        </div>
+
+        {/* footer */}
       </main>
     </>
   );

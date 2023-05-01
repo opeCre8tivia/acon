@@ -1,6 +1,65 @@
 {
+  "Categories": [
+    {
+      "id": 1,
+      "name": "flowflex",
+      "title": "Our newest brand",
+      "description": "FlowflexTM is the newest brand addition to the ACON product portfolio.  The Flowflex SARS-CoV-2 Rapid Antigen Test is the first in this family of lateral flow testing products.",
+      "logo": "/flowflex-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "promotor",
+      "title": "Molecular Diagnostics",
+      "description": "Nucleic Acid Extraction System and PCR quantitative test kits for HBV, HCV, HPV 16/18, HPV Genotyping, TB and HLA-B27.",
+      "logo": "/promotor-logo.png"
+    },
+    {
+      "id": 3,
+      "name": "foresight",
+      "title": "ELISA",
+      "description": "Our product offering includes ELISA tests for Infectious Disease, ToRCH, Allergen, Thyroid, Fertilty and Tumor Markers. ",
+      "logo": "/foresight-logo.png"
+    },
+    {
+      "id": 4,
+      "name": "acon",
+      "title": "Lateral Flow Rapid Test",
+      "description": "Reliable qualitative screening for pregnancy, cancer markers and infectious disease including our SARS-CoV-2 (COVID-19) antibody test.",
+      "logo": "/foresight-logo.png"
+    },
+    {
+      "id": 5,
+      "name": "on-call",
+      "title": "Blood glucose meter system",
+      "description": "Carefully designed for accuracy and reliability, the On Call® Blood Glucose Meter Family has helped millions of patients worldwide effectively manage their glucose levels.",
+      "logo": "/oncall-logo.png"
+    },
+    {
+      "id": 6,
+      "name": "mission",
+      "title": "Point of care testing (POCT)",
+      "description": "Our product offering includes a variety of urine reagent test strips, urine analyzers and handheld devices for the measurement of cholesterol, coagulation and hemoglobin.",
+      "logo": "/mission-logo.png"
+    },
+    {
+      "id": 7,
+      "name": "healthyme",
+      "title": "Personal Care tests",
+      "description": "HealthyMe is a newly created product line. Our current product offering includes UTI and fertility tests.The product selection is expected to grow with new personal health tests.",
+      "logo": "/healthme-logo.png"
+    },
+    {
+      "id": 8,
+      "name": "distinct",
+      "title": "Pregnancy Rapid Tests",
+      "description": "Rapid chromatographic immunoassays for the qualitative detection of human chorionic gonadotropin (hCG) in urine.",
+      "logo": "/distinct-logo.png"
+    }
+  ],
   "products": [
     {
+      "id": 1,
       "name": "Promotor® 960 Real Time PCR System",
       "caption": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
       "description": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
@@ -19,11 +78,179 @@
       ]
     },
     {
+      "id": 2,
       "name": "ACON® SARS-CoV-2 IgG/IgM Rapid Test",
       "caption": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
       "description": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
       "image": "/aconsarscov2.png",
-      "isFeatured": true
+      "isFeatured": true,
+      "bullet_points_title": "Product Features",
+      "bullet_points": [
+        "High purity and low CVs",
+        "High recovery rate",
+        "32 samples per run"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Promotor® NES-32 Nucleic Acid Extraction Kit",
+      "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
+      "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
+      "image": "/promotor-nucleic-acid-extractionkit.png",
+      "isFeatured": false,
+      "bullet_points_title": "Part Number: P121-1301",
+      "bullet_points": [
+        "Ready to Use",
+        "Specimens include: Serum, plasma, swab and sputum",
+        "The 32 test kit includes 2 Extraction Plates,4 Tip Combs,1 x 700 µL Proteinase K,1 x 700 µL Carrier RNA",
+        "Store at 2 to 30 °C",
+        "CE Marked"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" },
+        { "feature": "Recovery rate", "specifications": "≥98%" },
+        {
+          "feature": "Lysis Heating Temperature",
+          "specifications": "Lysis Temp (from RT to 120℃)"
+        },
+        {
+          "feature": "Elution Heating Temperature",
+          "specifications": "Elution Temp (from RT to 120℃)"
+        },
+        { "feature": "Sterilization", "specifications": "UV lamp" },
+        { "feature": "Dimensions", "specifications": "437×512×470 mm (W×D×H)" },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        { "feature": "Sensitivity of 100 copies/mL", "specifications": "≥98%" },
+        { "feature": "Connectivity Port", "specifications": "USB/LAN" },
+        {
+          "feature": "Power Source",
+          "specifications": "AC 85-264V. 50Hz/60Hz, 600VA"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Promotor® NES-32 Nucleic Acid (DNA) Extraction Kit",
+      "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
+      "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
+      "image": "/promotor-nucleic-acid-extractionkit.png",
+      "isFeatured": false,
+      "bullet_points_title": "Part Number: P121-1201",
+      "bullet_points": [
+        "Ready to Use",
+        "Specimens include: Serum, plasma, swab, feces and urine",
+        "The 32 test kit includes 2 Extraction Plates,4 Tip Combs,1 x 700 µL Proteinase K,1 x 700 µL Carrier RNA",
+        "Store at 2 to 30 °C",
+        "CE Marked"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" },
+        { "feature": "Recovery rate", "specifications": "≥98%" },
+        {
+          "feature": "Lysis Heating Temperature",
+          "specifications": "Lysis Temp (from RT to 120℃)"
+        },
+        {
+          "feature": "Elution Heating Temperature",
+          "specifications": "Elution Temp (from RT to 120℃)"
+        },
+        { "feature": "Sterilization", "specifications": "UV lamp" },
+        { "feature": "Dimensions", "specifications": "437×512×470 mm (W×D×H)" },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        { "feature": "Sensitivity of 100 copies/mL", "specifications": "≥98%" },
+        { "feature": "Connectivity Port", "specifications": "USB/LAN" },
+        {
+          "feature": "Power Source",
+          "specifications": "AC 85-264V. 50Hz/60Hz, 600VA"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Promotor® NES-32 Nucleic Acid (RNA) Extraction Kit",
+      "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
+      "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
+      "image": "/promotor-nucleic-acid-extractionkit.png",
+      "isFeatured": false,
+      "bullet_points_title": "Part Number: P121-1221",
+      "bullet_points": [
+        "Ready to Use",
+        "Specimens include: Serum, plasma, swab and feces",
+        "The 32 test kit includes 2 Extraction Plates,4 Tip Combs,1 x 700 µL Proteinase K,1 x 700 µL Carrier RNA",
+        "Store at 2 to 30 °C",
+        "CE Marked"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" },
+        { "feature": "Recovery rate", "specifications": "≥98%" },
+        {
+          "feature": "Lysis Heating Temperature",
+          "specifications": "Lysis Temp (from RT to 120℃)"
+        },
+        {
+          "feature": "Elution Heating Temperature",
+          "specifications": "Elution Temp (from RT to 120℃)"
+        },
+        { "feature": "Sterilization", "specifications": "UV lamp" },
+        { "feature": "Dimensions", "specifications": "437×512×470 mm (W×D×H)" },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        { "feature": "Sensitivity of 100 copies/mL", "specifications": "≥98%" },
+        { "feature": "Connectivity Port", "specifications": "USB/LAN" },
+        {
+          "feature": "Power Source",
+          "specifications": "AC 85-264V. 50Hz/60Hz, 600VA"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Promotor® NES-32 Whole Blood Genomic (DNA) Extraction Kit",
+      "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
+      "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
+      "image": "/promotor-nucleic-acid-extractionkit.png",
+      "isFeatured": false,
+      "bullet_points_title": "Part Number: P121-1211",
+      "bullet_points": [
+        "Ready to Use",
+        "Specimens include: Whole blood samples",
+        "The 32 test kit includes 2 Extraction Plates,4 Tip Combs,1 x 700 µL Proteinase K,1 x 700 µL Carrier RNA",
+        "Store at 2 to 30 °C",
+        "CE Marked"
+      ],
+      "tableRows": [
+        { "feature": "process volume", "specifications": "20-1000μl" },
+        { "feature": "Throughput", "specifications": "1-32" },
+        { "feature": "CV", "specifications": "≤1.5%" },
+        { "feature": "Recovery rate", "specifications": "≥98%" },
+        {
+          "feature": "Lysis Heating Temperature",
+          "specifications": "Lysis Temp (from RT to 120℃)"
+        },
+        {
+          "feature": "Elution Heating Temperature",
+          "specifications": "Elution Temp (from RT to 120℃)"
+        },
+        { "feature": "Sterilization", "specifications": "UV lamp" },
+        { "feature": "Dimensions", "specifications": "437×512×470 mm (W×D×H)" },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        { "feature": "Sensitivity of 100 copies/mL", "specifications": "≥98%" },
+        { "feature": "Connectivity Port", "specifications": "USB/LAN" },
+        {
+          "feature": "Power Source",
+          "specifications": "AC 85-264V. 50Hz/60Hz, 600VA"
+        }
+      ]
     }
   ]
 }
