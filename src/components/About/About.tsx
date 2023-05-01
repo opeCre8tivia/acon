@@ -14,6 +14,7 @@ const About = (props: Props) => {
             width={300}
             height={300}
             src={"/deliveryman.svg"}
+            style={{ width: "auto", height: "auto" }}
           />
         </div>
 

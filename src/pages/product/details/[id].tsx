@@ -95,6 +95,7 @@ const Details = (props: Props) => {
                   className={`${
                     index % 2 === 0 ? "bg-white" : "bg-gray-100"
                   } h-[40px]`}
+                  key={index}
                 >
                   <td className="text-sm text-gray-500 p-2">{row.feature}</td>
                   <td className="text-sm text-gray-500 px-2">

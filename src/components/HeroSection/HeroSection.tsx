@@ -15,7 +15,7 @@ const HeroSection = (props: Props) => {
               width={300}
               height={300}
               src={"/healthworker.png"}
-              style={{ objectFit: "cover" }}
+              style={{ objectFit: "cover", width: "auto", height: "auto" }}
             />
           </div>
           {/* right side */}
@@ -27,7 +27,12 @@ const HeroSection = (props: Props) => {
                 width={150}
                 height={150}
                 src={"/promotor960.png"}
-                style={{ objectFit: "cover", margin: "auto" }}
+                style={{
+                  objectFit: "cover",
+                  margin: "auto",
+                  width: "auto",
+                  height: "auto",
+                }}
               />
             </div>
             {/* fluorescence */}
@@ -37,7 +42,7 @@ const HeroSection = (props: Props) => {
                 width={150}
                 height={150}
                 src={"/immunoassay.png"}
-                style={{ margin: "auto" }}
+                style={{ margin: "auto", width: "auto", height: "auto" }}
               />
             </div>
           </div>
