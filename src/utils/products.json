@@ -64,17 +64,76 @@
       "caption": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
       "description": "The 960 Real-Time PCR System enables you to perform real-time, onboard PCR amplification, reverse transcription-PCR, fluorescence detection, and data analysis. After monitoring fluorescence during nucleic acid amplification, results can be analyzed.",
       "image": "/promotor960.png",
+      "category": 2,
       "isFeatured": true,
       "bullet_points_title": "Product Features",
       "bullet_points": [
-        "High purity and low CVs",
-        "High recovery rate",
-        "32 samples per run"
+        "SNP Genotyping",
+        "Absolute Quantitation",
+        "Gene Expression",
+        "Relative Quantitation",
+        "Methylation",
+        "High Resolution Melting (HRM)",
+        "Mutation Detection",
+        "Broad dynamic range: 1~1010 copies/mL",
+        "Perform up to 4-target multiple analysis",
+        "Peltier-based, 96-well block",
+        "Detection of 1 copy of template in a 50 μL reaction",
+        "No need for ROX reference dye",
+        "No crosstalk between well to well due to special optical system design",
+        "Easy to use software",
+        "Large color touchscreen",
+        "Easy to maintain"
       ],
       "tableRows": [
-        { "feature": "process volume", "specifications": "20-1000μl" },
-        { "feature": "Throughput", "specifications": "1-32" },
-        { "feature": "CV", "specifications": "≤1.5%" }
+        {
+          "feature": "Thermal Cycling System",
+          "specifications": "Peltier-based, 96-well block"
+        },
+        { "feature": "Max Block Ramp Rate", "specifications": "> 5 °C /s" },
+        { "feature": "Max Block Cooling Rate", "specifications": "> 4 °C /s" },
+        { "feature": "Temperature Range", "specifications": "4 – 100 °C" },
+        { "feature": "Temperature Accuracy", "specifications": "± 0.1 °C" },
+        {
+          "feature": "Temperature Uniformity (at 55 °C )",
+          "specifications": "± 0.1 °C"
+        },
+        { "feature": "Channel", "specifications": "4 channels" },
+        {
+          "feature": "Compatible Dyes",
+          "specifications": "Channel 1: FAM, SYBR Green,Channel 2: VIC, HEX, JOE, TET,Channel 3: ROX, Texas Red; Channel 4: CY5"
+        },
+        {
+          "feature": "Additional Dye Available",
+          "specifications": "Additional dyes within the wavelength range compatible with the filters are supported"
+        },
+        {
+          "feature": "Multiplex Analysis",
+          "specifications": "Up to 4 targets per well"
+        },
+        {
+          "feature": "Compatible Tubes",
+          "specifications": "Standard optical 0.2 mL 96-well plates (Semi-skirted, Non-skirted),8-strip 0.2 mL tubes,0.2 mL optical tubes"
+        },
+        { "feature": "Supported Volumes", "specifications": "20 – 100 μL" },
+        {
+          "feature": "Optical System",
+          "specifications": "Long life LED and PMT"
+        },
+        { "feature": "Dynamic Range", "specifications": "1~1010" },
+        {
+          "feature": "Sensitivity",
+          "specifications": "Detection of 1 copy of template in a 50 μL reaction"
+        },
+        {
+          "feature": "Applications",
+          "specifications": "Comparative Ct,Standard Curve,Relative Standard Curve,Allelic Discrimination"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": " 340 mm (13.4 in) x 557 mm (21.9 in) x 537 mm (21.2 in)"
+        },
+        { "feature": "Weight", "specifications": " 32 kg (70.6 lb)" }
       ]
     },
     {
@@ -83,6 +142,7 @@
       "caption": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
       "description": "The SARS-CoV-2 IgG/IgM Rapid Test is a lateral flow chromatographic immunoassay for the qualitative detection of antibodies (IgG and IgM) to SARS-CoV-2 in human serum, plasma, or whole blood.",
       "image": "/aconsarscov2.png",
+      "category": 4,
       "isFeatured": true,
       "bullet_points_title": "Product Features",
       "bullet_points": [
@@ -102,6 +162,7 @@
       "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
       "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
       "image": "/promotor-nucleic-acid-extractionkit.png",
+      "category": 2,
       "isFeatured": false,
       "bullet_points_title": "Part Number: P121-1301",
       "bullet_points": [
@@ -141,6 +202,7 @@
       "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
       "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
       "image": "/promotor-nucleic-acid-extractionkit.png",
+      "category": 2,
       "isFeatured": false,
       "bullet_points_title": "Part Number: P121-1201",
       "bullet_points": [
@@ -180,6 +242,7 @@
       "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
       "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
       "image": "/promotor-nucleic-acid-extractionkit.png",
+      "category": 2,
       "isFeatured": false,
       "bullet_points_title": "Part Number: P121-1221",
       "bullet_points": [
@@ -219,6 +282,7 @@
       "caption": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run",
       "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
       "image": "/promotor-nucleic-acid-extractionkit.png",
+      "category": 2,
       "isFeatured": false,
       "bullet_points_title": "Part Number: P121-1211",
       "bullet_points": [

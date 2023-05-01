@@ -19,7 +19,7 @@ const NavBar = () => {
   const navBarLinks: NavBarLink[] = [
     {
       name: "Home",
-      href: "#",
+      href: "/",
       Icon: FaHome,
     },
     {

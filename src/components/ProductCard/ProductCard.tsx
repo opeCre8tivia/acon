@@ -10,17 +10,26 @@ type Props = {
 
 const ProductCard = ({ item }: Props) => {
   return (
-    <div className="bg-white border-gray-300 border-2   min-h-[350px] sm:bg-green-100 md:bg-blue-200">
-      <Image alt="acon product" width={100} height={100} src={item.image} />
-      <div className="text-teal-400 text-sm font-bold text-center">
+    <div className="bg-white min-h-[350px] p-4">
+      {/* image section */}
+      <div className="w-full h-[200px] bg-gray-100 flex justify-center items-center">
+        <Image
+          alt="acon product"
+          width={150}
+          height={150}
+          src={item.image}
+          style={{ margin: "auto", paddingBottom: 4 }}
+        />
+      </div>
+      <div className="text-teal-400 text-sm font-bold text-center my-4">
         {item.name}
       </div>
-      <div className="text-gray-500 text-[12px] font-normal text-justify">
+      <div className="text-gray-400 text-[12px] font-normal text-justify ">
         {item.description}
       </div>
 
       <Link href={`/product/details/${item.id}`}>
-        <div className="text-teal-400 text-[12px] font-normal mt-5 hover:text-blue-950">
+        <div className="text-teal-400 text-[12px] font-normal mt-5 hover:text-blue-950 w-full flex justify-center items-center">
           View Details
           <MdArrowRight style={{ display: "inline" }} size={25} />
         </div>
