@@ -23,10 +23,6 @@ const Search = (props: Props) => {
     }
   }, [categories, products]);
 
-  useEffect(() => {
-    console.log(pathname, "p--- name");
-  }, [pathname]);
-
   return (
     <div>
       {/* head */}
@@ -53,9 +49,9 @@ const Search = (props: Props) => {
         <SectionTitle title="View by Category" />
         <div className="my-10 grid grid-cols-2 sm:grid-cols-5 gap-1">
           {categoryList &&
-            categoryList.map((category) => {
+            categoryList.map((category, index) => {
               return (
-                <div className="w-fit h-[200px] p-4 bg-white">
+                <div className="w-fit h-[200px] p-4 bg-white" key={index}>
                   <Image
                     alt="acon product category logo"
                     width={150}
