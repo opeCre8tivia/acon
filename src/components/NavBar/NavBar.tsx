@@ -29,7 +29,7 @@ const NavBar = () => {
     },
     {
       name: "Products",
-      href: "#",
+      href: "/products/search",
       Icon: MdProductionQuantityLimits,
     },
     {

@@ -1,5 +1,5 @@
 {
-  "Categories": [
+  "categories": [
     {
       "id": 1,
       "name": "flowflex",
@@ -26,7 +26,7 @@
       "name": "acon",
       "title": "Lateral Flow Rapid Test",
       "description": "Reliable qualitative screening for pregnancy, cancer markers and infectious disease including our SARS-CoV-2 (COVID-19) antibody test.",
-      "logo": "/foresight-logo.png"
+      "logo": "/acon-logo.png"
     },
     {
       "id": 5,
@@ -384,6 +384,334 @@
         "Internal quality control: prevents false-negative results",
         "Specificity: no cross-reactivity with HAV, HCV, HEV and HIV",
         "Package: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Promotor® HCV Quantitative PCR Test Kit",
+      "caption": "This real-time PCR test kit is for quantitative determination of the hepatitis C virus in HCV-infected individuals. With a high sensitivity of 30 IU/mL.",
+      "description": "This real-time PCR test kit is for quantitative determination of the hepatitis C virus in HCV-infected individuals. With a high sensitivity of 30 IU/mL, this test kit is an excellent choice for HCV infection diagnosis, treatment decision making and viral load monitoring during antiviral therapy.",
+      "image": "/hbv-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "High sensitivity: 30 IU/mLL",
+        "High precision: CV ≤ 5%",
+        "Wide linear range: 50-1.0×10^8 IU/mL",
+        "Internal quality control: prevents false-negative results",
+        "Specificity: no cross-reactivity with HAV, HBV, HEV and HIV",
+        "Package: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "HPV 16/18 Genotype PCR Test Kit ",
+      "caption": "This real-time PCR test kit is for qualitative detection of HPV types 16 and 18 (high-risk types) in cervical specimens.",
+      "description": "Human papillomavirus types 16 and 18 (high-risk types) are responsible for about 70% of all cervical cancer cases worldwide. This real-time PCR test kit is for qualitative detection of HPV types 16 and 18 in cervical specimens. It can be used alongside other cervical cancer screening or diagnostic methods, contributing to more accurate medical information and better treatment decisions. It can also be used during physical examinations to identify high-risk HPV infections.",
+      "image": "/hbv-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "Sensitivity: 500 copies/mL",
+        "High precision: good repeatability",
+        "Specificity: no cross-reactivity with CT, UU, NG and other types of HPV",
+        "Less or equal to 30 min. extraction and 1-hour PCR (extraction reagent included)",
+        "Specimen: cervical cells",
+        "Package: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "TB PCR Test Kit(Real time)",
+      "caption": "This real-time PCR test kit is for qualitative detection of Mycobacterium tuberculosis viral DNA in human sputum specimens.",
+      "description": "This real-time PCR test kit is for qualitative detection of Mycobacterium tuberculosis bacterial DNA in human sputum specimens. It can be used alongside other diagnostic methods, contributing to the final diagnosis of TB infection.",
+      "image": "/hbv-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "Sensitivity: 10 bacteria/mL",
+        "High precision: CV ≤ 5%",
+        "Specificity: no cross-reactivity with UU, MP and CP",
+        "Less or equal to 30 min. extraction and 1-hour PCR (extraction reagent included)",
+        "Specimen: sputum",
+        "Package: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "HLA-B27 PCR Test Kit(Real Time)",
+      "caption": "HLA-B27 is strongly associated with ankylosing spondylitis (AS) and other related inflammatory diseases, such as psoriasis, inflammatory bowel disease and reactive arthritis.",
+      "description": "This real-time PCR test kit is for the detection of Human leukocyte antigen B27 in whole blood. HLA-B27 is strongly associated with ankylosing spondylitis (AS) and other related inflammatory diseases, such as psoriasis, inflammatory bowel disease and reactive arthritis. Testing for HLA-B27 can aid in early diagnosis and management of these conditions.",
+      "image": "/hbv-test-kit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "Sensitivity: 2.5 ng target DNA/μL",
+        "High precision: CV ≤ 5%",
+        "Specificity: no cross-reactivity with other subtypes of HLA gene",
+        "Internal quality control: prevents false-negative results",
+        "Less or equal to 30 min. extraction and 1-hour PCR (extraction reagent included)",
+        "Specimen: whole blood",
+        "Package: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "HPV 18 High-risk Types with 16/18 Genotyping Test Kit",
+      "caption": "This real-time PCR kit determines the presence of HPV 16 and HPV 18 in cervical specimens, with results that differentiate between the two, and simultaneously screens for 16 other high-risk genotypes.",
+      "description": "This PCR test kit is for the qualitative detection of 18 high-risk HPV types in cervical specimens. The test utilizes PCR technology to amplify target DNA and determine the presence of each viral type. Up to three test results are obtained per patient sample and provide the following information Specifically distinguish between the presence of HPV 16 and HPV 18 Screen for the presence of high-risk types: HPV 26, 31, 33, 35, 39, 45, 51, 52 53, 56, 58, 59, 66, 68, 73, 82 with one qualitative result The kit can be used in conjunction with clinical information derived from other diagnostic and screening tests, physical examinations and professional guidelines to guide patient management.",
+      "image": "/hpv-testkit.png",
+      "category": 2,
+      "isFeatured": false,
+      "bullet_points_title": "Advantages and performance",
+      "bullet_points": [
+        "Determine the presence of 18 high-risk HPV types",
+        "Distinguish between HPV 16 and HPV 18",
+        "Concordance:Demonstrated 98.5% relative sensitivity, 98.38% relative specificity, and 98.44% relative accuracy, when compared with a commercial PCR-reverse dot blot hybridization assay for the same viral types.Comparisons of only HPV 16 and HPV 18 demonstrated (respectively) sensitivity of 98.46% and 96.3%, specificity of 99.84% and 100%, and accuracy of 99.72% and 99.86%",
+        "Time to result Amplification/detection in 45 minutes; total time to result about 1.5 – 1.75 hours (including hands-on prep time, extraction and amplification/detection) Kit includes extraction reagent.",
+        "Specificity:No cross-reactivity with certain low-risk genotypes, including HPV 6, 11, 81, 61, 67, 69, 71, 40, 42, 43, 44, 83, 54, 72 or certain viruses and microorganisms, including HSV-Ⅱ, UU, NG, CT, CMV, EB, TP, TV, MH and CAL",
+        "Precision: < 5%",
+        "Controls: internal (β-globin) and external",
+        "Package size: 32 tests/kit"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Distinct® Pregnancy Test",
+      "caption": "",
+      "description": "",
+      "image": "/distinct-pregnancy-test.png",
+      "category": 8,
+      "isFeatured": false,
+      "bullet_points_title": "Product Features",
+      "bullet_points": [
+        "> 99% overall accuracy",
+        "Results as early as 1 minute",
+        "Confirmed results at 3 minutes",
+        "Designed to fit retailers’ needs",
+        "Comparable dimensions to market leaders"
+      ],
+      "tableRows": [
+        { "feature": "Test Format(s)", "specifications": "Midstream" },
+        { "feature": "Specimen Format(s)", "specifications": "Urine" },
+        { "feature": "Detects", "specifications": "hCG" },
+        { "feature": "Sensitivity", "specifications": "25 mIU / mL" },
+        {
+          "feature": "Test Time",
+          "specifications": "3 Minutes"
+        },
+        {
+          "feature": "Shelf Life",
+          "specifications": "24 Months"
+        },
+        { "feature": "Storage Temperature", "specifications": "2 – 30 °C" },
+        {
+          "feature": "Package Includes",
+          "specifications": "Test,Package Insert"
+        },
+        { "feature": "Processing Time", "specifications": "12-40 minutes" },
+        {
+          "feature": "Tests / Kit",
+          "specifications": "1Tests / Kit,2Tests / Kit"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Distinct® Early Detection Pregnancy Test",
+      "caption": "",
+      "description": "",
+      "image": "/early-detection-pregnancy-test.png",
+      "category": 8,
+      "isFeatured": false,
+      "bullet_points_title": "Product Features",
+      "bullet_points": [
+        "Early Detection",
+        ">99% Accurate",
+        "Results as early as 1 minute",
+        "Easy to read + / – Results",
+        "Wider Absorbent Tip",
+        "Ergonomic handle",
+        "Offering customers an affordable and reliable testing option",
+        "20 Years of Lateral Flow Experience"
+      ],
+      "tableRows": [
+        { "feature": "Test Format", "specifications": "Lateral Flow" },
+        { "feature": "Specimen)", "specifications": "Urine" },
+        {
+          "feature": "Detects",
+          "specifications": "Human chorionic gonadotropin (hCG)"
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "5 to 10 seconds in Urine Stream or Collected Urine"
+        },
+        {
+          "feature": "Accuracy",
+          "specifications": ">99% overall accuracy when testing from the day of the expected period"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "1 to 3 minutes"
+        },
+        { "feature": "Shelf Life", "specifications": "24 Months" },
+        {
+          "feature": "Store Temperature",
+          "specifications": "2 – 30 °C / 36 – 86 °F"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Distinct® Digital Test",
+      "caption": "",
+      "description": "",
+      "image": "/digital-test.png",
+      "category": 8,
+      "isFeatured": false,
+      "bullet_points_title": "Product Features",
+      "bullet_points": [
+        "Early Detection",
+        ">99% Accurate",
+        "Results in 3 minutes",
+        "Pregnant / Not Pregnant Results",
+        "24 Months Shelf life",
+        "Wide Absorbent Tip",
+        "Offering customers an affordable and reliable testing option",
+        "20 Years of Lateral Flow Experience"
+      ],
+      "tableRows": [
+        { "feature": "Test Format", "specifications": "Lateral Flow" },
+        { "feature": "Specimen)", "specifications": "Urine" },
+        {
+          "feature": "Detects",
+          "specifications": "Human chorionic gonadotropin (hCG)"
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "5 to 10 seconds in Urine Stream or Collected Urine"
+        },
+        {
+          "feature": "Accuracy",
+          "specifications": "99% overall accuracy when testing from the day of the expected period"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "3 minutes"
+        },
+        { "feature": "Shelf Life", "specifications": "24 Months" },
+        {
+          "feature": "Store Temperature",
+          "specifications": "2 – 30 °C / 36 – 86 °F"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Mission® Cholesterol",
+      "caption": "The Mission® Cholesterol system is a novel, handheld point-of- care device that generates rapid lipid panel test results.",
+      "description": "The Mission® Cholesterol system is a novel, handheld point-of- care device that generates rapid lipid panel test results.",
+      "image": "/mission-cholestral-meter.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "5-parameter lipid panel & individual tests",
+        "Results in ≤ 2 minutes",
+        "Sample types: whole blood, serum, plasma",
+        "Portable, compact, ergonomic design",
+        "Patient friendly",
+        "3 simple steps: insert strip, apply sample with a capillary transfer tube, read results",
+        "Test devices with 18-month shelf life",
+        "Room temperature storage",
+        "Clinically proven accuracy",
+        "Enhanced memory, stores up to 200 results",
+        "Compact, ergonomic design",
+        "Fast, reliable lipid test results"
+      ],
+      "tableRows": [
+        { "feature": "Analyzer Type", "specifications": "Handheld Meter" },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance Photometry"
+        },
+        {
+          "feature": "Test Parameters",
+          "specifications": "Total Cholesterol (CHOL),High-Density Lipoprotein (HDL),Triglycerides (TRIG),Calculated Low-Density Lipoprotein (LDL),CHOL/HDL ratio"
+        },
+        {
+          "feature": "Risk Assessment (CHD)",
+          "specifications": "Four scoring methods:PROCAM,Framingham,ACC/AHA (10-year),ACC/AHA (lifetime)"
+        },
+        {
+          "feature": "Time to Results",
+          "specifications": "≤ 2 minutes"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "200 Results with Date/Time"
+        },
+        { "feature": "HCT Range", "specifications": "30-50%" },
+        {
+          "feature": "Specimen Volume",
+          "specifications": "10μL (Individual Tests) or 35μL (3-in-1 Lipid Panel Test)"
+        },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Capillary or Venous Whole Blood, Serum or Plasma"
+        },
+        {
+          "feature": "CHOL Measurement Range",
+          "specifications": "100-500 mg/dL (2.59-12.93 mmol/L)"
+        },
+        {
+          "feature": "HDL Measurement Range",
+          "specifications": "15-100 mg/dL (0.39-2.59 mmol/L)"
+        },
+        {
+          "feature": "TRIG Measurement Range",
+          "specifications": "45-650 mg/dL (0.51-7.34 mmol/L)"
+        },
+        {
+          "feature": "PC Interface",
+          "specifications": "Mini-USB"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "15-40°C (59-104°F) < 90% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "Meter: 0-50°C (32-122°F) < 90% RH Strip: 2-30°C (36-86°F)"
+        },
+        {
+          "feature": "Strip Shelf Life",
+          "specifications": "18 months"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "4 AAA Batteries or AC Adapter"
+        },
+        {
+          "feature": "Battery Life",
+          "specifications": " >1,000 Tests"
+        },
+        {
+          "feature": "Meter Dimensions",
+          "specifications": "137 x 79 x 26 mm (5.4” x 3.1” x 1.0”)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "50 x 50 mm (2.0” x 2.0”)"
+        },
+        {
+          "feature": "Weight Excluding Batteries",
+          "specifications": "145g (5.11oz)"
+        }
       ]
     }
   ]

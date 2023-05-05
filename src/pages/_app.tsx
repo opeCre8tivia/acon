@@ -1,17 +1,17 @@
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 
-import { Fira_Code } from "next/font/google";
+import { Lato } from "next/font/google";
 
-const firaCode = Fira_Code({
-  weight: ["400", "500", "700"],
+const lato = Lato({
+  weight: ["100", "300", "400", "700", "900"],
   style: "normal",
   subsets: ["latin"],
 });
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <main className={firaCode.className}>
+    <main className={lato.className}>
       <Component {...pageProps} />
     </main>
   );

@@ -18,14 +18,20 @@ const ProductCard = ({ item }: Props) => {
           width={150}
           height={150}
           src={item.image}
-          style={{ margin: "auto", paddingBottom: 4 }}
+          style={{
+            margin: "auto",
+            paddingBottom: 4,
+            width: "80%",
+            height: "80%",
+            objectFit: "contain",
+          }}
         />
       </div>
       <div className="text-teal-400 text-sm font-bold text-center my-4">
         {item.name}
       </div>
       <div className="text-gray-400 text-[12px] font-normal text-justify ">
-        {item.description}
+        {item.caption}
       </div>
 
       <Link href={`/product/details/${item.id}`}>

@@ -14,3 +14,11 @@ export interface Product {
   bullet_points: string[];
   tableRows?: Row[];
 }
+
+export interface Category {
+  id: number;
+  name: string;
+  title: string;
+  description: string;
+  logo: string;
+}
