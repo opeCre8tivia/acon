@@ -713,6 +713,1529 @@
           "specifications": "145g (5.11oz)"
         }
       ]
+    },
+    {
+      "id": 18,
+      "name": "Mission® Ultra Cholesterol",
+      "caption": "The  Mission® Ultra Cholesterol monitoring system delivers immediate total cholesterol test results. This user-friendly, handheld meter offers fast, reliable results that healthcare professionals can depend on",
+      "description": "The  Mission® Ultra Cholesterol monitoring system delivers immediate total cholesterol test results. This user-friendly, handheld meter offers fast, reliable results that healthcare professionals can depend on.The Mission® Ultra Cholesterol system is the ideal choice for monitoring cholesterol in both the professional and home setting.",
+      "image": "/mission-ultra-cholesterol.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Small 4 μL sample size",
+        "Results in as little as 15 seconds",
+        "Clinically proven accuracy",
+        "Direct sampling (no transfer tube required)",
+        "Large display",
+        "Compact, ergonomic design",
+        "24-month shelf life for test strips",
+        "Strip ejector avoids contamination",
+        "Room temperature storage"
+      ],
+      "tableRows": [
+        { "feature": "Analyzer Type", "specifications": "Handheld Meter" },
+        {
+          "feature": "Methodology",
+          "specifications": "Biosensor"
+        },
+        {
+          "feature": "Analyte",
+          "specifications": "Total Cholesterol (CHOL)"
+        },
+        {
+          "feature": "Time to Results",
+          "specifications": "15-70 seconds"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "200 Results with Date/Time"
+        },
+        {
+          "feature": "HCT",
+          "specifications": "30-60%"
+        },
+        { "feature": "Specimen Volume", "specifications": "4μL" },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Capillary Whole Blood"
+        },
+        {
+          "feature": "CHOL Measurement Range",
+          "specifications": "100-450 mg/dL (2.6-11.7 mmol/L)"
+        },
+        {
+          "feature": "PC Interface",
+          "specifications": "Mini-USB"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "15-40°C (59-104°F)"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "Meter: 2-45°C (35.6-122°F) 20 – 90% RH Strip: 2-30°C (36-86°F)"
+        },
+        {
+          "feature": "Strip Shelf Life",
+          "specifications": "24 months"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "3 AAA Batteries or AC Adapter"
+        },
+        {
+          "feature": "Battery Life",
+          "specifications": "1,000 Tests"
+        },
+        {
+          "feature": "Meter Dimensions",
+          "specifications": "55 x 106 x 20 mm (2.2” x 4.2” x 0.8"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "32.5 x 34.8mm (1.3” x 1.4”)"
+        },
+        {
+          "feature": "Weight Excluding Batteries",
+          "specifications": "65g (2.3oz)"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Mission® 3-in-1 Lipid Test",
+      "caption": "The  Mission® Ultra Cholesterol monitoring system delivers immediate total cholesterol test results. This user-friendly, handheld meter offers fast, reliable results that healthcare professionals can depend on",
+      "description": "The  Mission® Ultra Cholesterol monitoring system delivers immediate total cholesterol test results. This user-friendly, handheld meter offers fast, reliable results that healthcare professionals can depend on.The Mission® Ultra Cholesterol system is the ideal choice for monitoring cholesterol in both the professional and home setting.",
+      "image": "/lipid-test.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Complete test panel",
+        "Total Cholesterol (CHOL)",
+        "High-Density Lipoprotein (HDL)",
+        "Triglycerides (TRIG)",
+        "Calculated Low-Density Lipoprotein, CHOL/HDL ratio",
+        "Cardiac Risk Assessment (CHD)",
+        "18-month shelf life",
+        "Room temperature storage",
+        "Individually pouched test device preserves stability"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mission® PT/INR Monitoring System",
+      "caption": "With the Mission® PT/INR monitoring system, healthcare professionals can be assured that they are getting the accuracy and reliability they need and expect.",
+      "description": "With the Mission® PT/INR monitoring system, healthcare professionals can be assured that they are getting the accuracy and reliability they need and expect.the Mission® PT/INR system is designed specifically to meet the needs of healthcare professionals at the point of care.CE marked for Professional Use and Self-Test",
+      "image": "/mission-monitoring- system.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Small sample size: hanging drop of blood (15 μL)",
+        "Results in about 2 minutes",
+        "Clinically proven accuracy",
+        "Direct sampling (no transfer tube required)",
+        "Ergonomic design",
+        "3 easy steps: insert strip, apply sample, read results",
+        "Patient ID input (optional)",
+        "Password-protected results"
+      ],
+      "tableRows": [
+        { "feature": "Analyzer Type", "specifications": "Handheld Meter" },
+        {
+          "feature": "Methodology",
+          "specifications": "Optical Fluorescence"
+        },
+        {
+          "feature": "Type of Test",
+          "specifications": "PT and INR"
+        },
+        {
+          "feature": "Time to Results",
+          "specifications": "About 2 minutes"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "200 Results with Date/Time"
+        },
+        {
+          "feature": "HCT",
+          "specifications": "25-60%"
+        },
+        {
+          "feature": "Specimen Volume",
+          "specifications": "Hanging drop or 15μL"
+        },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Fresh Capillary or Venous Whole Blood"
+        },
+        {
+          "feature": "INR Range",
+          "specifications": "0.7 – 7.0"
+        },
+        {
+          "feature": "PC Interface",
+          "specifications": "Mini-USB"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "15-35°C (59-95°F); < 90% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "Meter: 0-50°C (32-122°F); < 95% RH Strip: 2-30°C (36-86°F)"
+        },
+        {
+          "feature": "Strip Shelf Life",
+          "specifications": "24 months"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "4 AA Batteries or AC Adapter"
+        },
+        {
+          "feature": "Battery Life",
+          "specifications": "100 Tests"
+        },
+        {
+          "feature": "Meter Dimensions",
+          "specifications": "152 x 72 x 38mm (6.0” x 2.8” x 1.5”)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "53 x 29mm (2.1” x 1.1”)"
+        },
+        {
+          "feature": "Weight Excluding Batteries",
+          "specifications": "170g (6.0 oz)"
+        },
+        {
+          "feature": "Support and Safety Functions",
+          "specifications": "Patient ID (optional), password-protected results"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Mission® PT/INR Test Strip",
+      "caption": "",
+      "description": "",
+      "image": "/testing-strip.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Wide application area for easy sampling",
+        "Individually wrapped strip maintains stability"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mission®Hemoglobin Hb",
+      "caption": "Performance and Value in the Palm of your Hand.",
+      "description": "Performance and Value in the Palm of your Hand.",
+      "image": "/hemoglobin.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Portable handheld",
+        "Large, easy-to-read LCD",
+        "Stores up to 1,000 results",
+        "Precise results equivalent to laboratory analyzers",
+        "Wide Hb measurement range of 4.5 – 25.6 g/dL",
+        "Calculated Hct range of 13 – 75%",
+        "Results in < 15 seconds",
+        "Auto-calibration",
+        "Fast data transfer via Mini USB port"
+      ],
+      "tableRows": [
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance  Photometry"
+        },
+        {
+          "feature": "Detection Principle",
+          "specifications": "Methemoglobin"
+        },
+        {
+          "feature": "Time to Results",
+          "specifications": "15 seconds"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "1,000 tests with date/time and ID number"
+        },
+        {
+          "feature": "Specimen Volume",
+          "specifications": "10 µL"
+        },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Capillary and Venous whole blood"
+        },
+        {
+          "feature": "Hb Measurement Range",
+          "specifications": "4.5-25.6 g/dL"
+        },
+        {
+          "feature": "Hct Range",
+          "specifications": "13-75%"
+        },
+        {
+          "feature": "Wavelengths",
+          "specifications": "525 nm"
+        },
+        {
+          "feature": "PC Interface",
+          "specifications": "Mini USB Port"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Hb Within Run Precision",
+          "specifications": "≤ 3%"
+        },
+        {
+          "feature": "Hb Total Precision CV",
+          "specifications": "≤ 3%"
+        },
+        {
+          "feature": "Accuracy",
+          "specifications": "Venous Blood: Y=0.9582X+0.5673, R2=0.992, Capillary Blood: Y=1.006X+0.026, R2=0.993"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "10 – 40 ºC (50 -104 ºF); ≤90％ RH"
+        },
+        {
+          "feature": "Meter Storage Conditions",
+          "specifications": "0-50 °C (32-122 °F); ≤90% RH"
+        },
+        {
+          "feature": "Strip Storage Conditions",
+          "specifications": "2-30 °C (36-86 °F); ≤85% RH"
+        },
+        {
+          "feature": "Strip Shelf Life",
+          "specifications": "2 years unopened  canister; 3 months opened canister"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "3 AAA Batteries or AC Adapter"
+        },
+        {
+          "feature": "Battery Life",
+          "specifications": "2,700 tests or 360 hours"
+        },
+        {
+          "feature": "Automatic  Shut Off",
+          "specifications": "8 minutes"
+        },
+        {
+          "feature": "Meter Dimensions",
+          "specifications": "127 × 58 × 25 mm (5.0″ x 2.28″ x 0.09″)"
+        },
+        {
+          "feature": "LCD Dimensions",
+          "specifications": "39 × 37 mm (1.54″ x 1.46″)"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Mission®Hemoglobin Plus Hb",
+      "caption": "Fast, accurate hemoglobin results from a go-anywhere portable meter.",
+      "description": "Fast, accurate hemoglobin results from a go-anywhere portable meter.",
+      "image": "/hemoglobin-plus.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Portable handheld",
+        "Large, easy-to-read LCD",
+        "Test Device format designed to minimize contamination",
+        "Precise results equivalent to laboratory analyzers",
+        "Wide Hb measurement range of 5.6 – 23.5 g/dL",
+        "Calculated Hct range of 35 – 51%",
+        "Results in < 15 seconds",
+        "Auto-calibration",
+        "Stores up to 1,000 results",
+        "Fast data transfer via Mini USB port"
+      ],
+      "tableRows": [
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance  Photometry"
+        },
+        {
+          "feature": "Detection Principle",
+          "specifications": "Methemoglobin"
+        },
+        {
+          "feature": "Time to Results",
+          "specifications": "15 seconds"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "1,000 tests with date/time and ID numbet"
+        },
+        {
+          "feature": "Specimen Volume",
+          "specifications": "10 µL"
+        },
+        {
+          "feature": "Specimen Type",
+          "specifications": "Capillary and Venous whole blood"
+        },
+        {
+          "feature": "Hb Measurement Range",
+          "specifications": "5.6-23.5 g/dL"
+        },
+        {
+          "feature": "Hct Range",
+          "specifications": "35 – 51%"
+        },
+        {
+          "feature": "Wavelengths",
+          "specifications": "525 nm"
+        },
+        {
+          "feature": "PC Interface",
+          "specifications": "Mini USB Port"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Hb Within Run Precision CV",
+          "specifications": "≤ 3%"
+        },
+        {
+          "feature": "Hb Total Precision CV",
+          "specifications": "≤ 3%"
+        },
+        {
+          "feature": "Accuracy",
+          "specifications": "Venous Blood: Y=0.988X+0.060, R2=0.988 Capillary Blood: Y=0.980X + 0.193, R2=0.988"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "10 – 40 ºC (50 -104 ºF); ≤90％ RH"
+        },
+        {
+          "feature": "Meter Storage Conditions",
+          "specifications": "0-50 °C (32-122 °F); ≤90% RH"
+        },
+        {
+          "feature": "Strip/Device  Storage Conditions",
+          "specifications": "2-30 °C (36-86 °F); ≤85% RH"
+        },
+        {
+          "feature": "Strip/Device Shelf Life",
+          "specifications": "2 years unopened  canister; 3 months opened canister"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "4*AAA (1.5 V) or AC adapter (Mini USB, 5 V dc, 50 mA)"
+        },
+        {
+          "feature": "Battery Life",
+          "specifications": "2,700 tests or 360 hours"
+        },
+        {
+          "feature": "Automatic  Shut Off",
+          "specifications": "8 minutes"
+        },
+        {
+          "feature": "Meter Dimensions",
+          "specifications": "137 × 79 × 26 mm (5.4″x 3.11″x 1.02″)"
+        },
+        {
+          "feature": "LCD Dimensions",
+          "specifications": "50  × 50 mm (1.97″x 1.97″)"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Expert Urine Reagent Strips",
+      "caption": "The Mission® Expert Urinalysis Strips are a great tool to get insight into the patient’s overall health and their metabolic, liver and kidney functions.",
+      "description": "The Mission® Expert Urinalysis Strips are a great tool to get insight into the patient’s overall health and their metabolic, liver and kidney functions. It is a very cost effective screening tool. The Mission® Expert Urinalysis Strips are very reliable and have comparable performance to the market leaders.",
+      "image": "/expert-urine-reagent-test.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Compatible with visual and/or analyzer reading",
+        "11 strip combinations for visual reading",
+        "7 strip combinations for analyzer reading",
+        "24 Months shelf life for closed canisters",
+        "90 days shelf life once the canister was opened",
+        "Increased Ascorbic Acid resistance",
+        "Reduces false-negative results for Glucose, Blood, Nitrite, and Bilirubin",
+        "Performance equivalent to the market leader",
+        "High quality color chart improves visual reading accuracy",
+        "Results in 2 minutes"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Expert U120 Urine Analyzer",
+      "caption": "The Mission® Expert U120 Urine Analyzer is to be used with the Mission® Expert Urine Reagent Strips.",
+      "description": "The Mission® Expert U120 Urine Analyzer is to be used with the Mission® Expert Urine Reagent Strips. The U120 makes urine testing easier and provides accurate results in 60 seconds.",
+      "image": "/u120-urine-analyzer.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Up to 120 tests/hour in Continuous Test Option",
+        "Test categories include Routine, STAT and QC",
+        "Automatic calibration for accurate results and easy operation",
+        "Can read strips with up to 11 parameters, including Ascorbic Acid",
+        "Capture Patient ID via Manual Entry or Barcode Reader",
+        "Capable to transfer data to an external computer or LIS",
+        "Automatically stores the last 2,000 results",
+        "Print up to 3 copies per test",
+        "Option to print results on sticker paper"
+      ],
+      "tableRows": [
+        {
+          "feature": "Type",
+          "specifications": "Manual"
+        },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance Photometry"
+        },
+        {
+          "feature": "Detection",
+          "specifications": "Photosensitive Diode"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "Single Test Option: 60 tests/hour,Continuous Test Option: 120 tests/hour"
+        },
+        {
+          "feature": "Test category",
+          "specifications": "Routine, STAT and QC"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "Last 2,000 results"
+        },
+        {
+          "feature": "Strip Incubation Time",
+          "specifications": "1 Minute"
+        },
+        {
+          "feature": "Wavelength of Monochromatic LED",
+          "specifications": "525 nm and 635 nm"
+        },
+        {
+          "feature": "Default strip types U033",
+          "specifications": "11U, 10S, 9N, 5KE, 4UE, 2GE"
+        },
+        {
+          "feature": "Default strip types U034",
+          "specifications": "11UW, 10SW, 9NW, 5KEW, 4UEW, 2GEW, 2CEW"
+        },
+        {
+          "feature": "strips available",
+          "specifications": "2 – 11 parameters"
+        },
+        {
+          "feature": "Strip size",
+          "specifications": "108 x 5 mm"
+        },
+        {
+          "feature": "Combinations per Analyzer",
+          "specifications": "U033 Strip: 6 combinations,U034 Strip: 7 combinations"
+        },
+        {
+          "feature": "Analyzer ports",
+          "specifications": "RS232C Port for Barcode Reader or Data Transfer, USB Port for Data Transfer, 25 Pin Parallel Port for External Printer"
+        },
+        {
+          "feature": "Data entry capabilities",
+          "specifications": "Operator/Patient ID – Manual Entry and Barcode Reader (Up to 20 characters)"
+        },
+        {
+          "feature": "Connection Capabilities",
+          "specifications": "Internal Thermal Printer (included),Optional External Printer (not included), RS232C Barcode Reader (optional),USB or RS232C Data Transfer Cable (optional)"
+        },
+        {
+          "feature": "Major readable barcodes",
+          "specifications": "Code 128,Code 39,Codabar (NW-7),EAN 8,EAN 13,Interleave 25, UPCA,UPCE"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Available Languages on the Screen",
+          "specifications": "English and additional language(s)"
+        },
+        {
+          "feature": "Oparating Conditions",
+          "specifications": "0-40°C (32-104° F); < 85% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "-5-50°C (23-122° F); < 90% RH"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "100-240 VAC, 50-60 Hz"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "27.2 x 26.9 x14.6 cm (10.7″ x 10.6″ x 5.7″ )"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "10.8  x 5.7 cm (4.2″ x 2.2″)"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "2.6 kg (5.7 lbs) without batteries or power supply"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Expert U500 Urine Analyzer",
+      "caption": "The Mission® Expert  U500 Urine Analyzer is a great tool to use with the Mission® Expert Urinalysis Reagent Strips.",
+      "description": "The Mission® Expert  U500 Urine Analyzer is a great tool to use with the Mission® Expert Urinalysis Reagent Strips.  This analyzer has the capability of running up to 500 tests per hour and saving up to 2,000 results.  The Mission® Expert U500 Urine Analyzer makes high volume testing easy while providing you with confidence in the accuracy of the results.",
+      "image": "/urine-analyzer.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Up to 500 tests/hour in Continuous Test Option",
+        "Test categories include Routine, STAT and QC",
+        "Automatic calibration for accurate results and easy operation",
+        "Can read strips with up to 11 parameters, including Ascorbic Acid ",
+        "Capture Patient ID via Manual Entry or Barcode Reader",
+        "Capable to transfer data to an external computer or LIS",
+        "Automatically stores the last 2,000 results",
+        "Print up to 3 copies per test",
+        "Option to print results on sticker paper"
+      ],
+      "tableRows": [
+        {
+          "feature": "Analyzer Type",
+          "specifications": "Semi- Automatic"
+        },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance Photometry"
+        },
+        {
+          "feature": "Detection",
+          "specifications": "Photosensitive Diode"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "500 tests/ hour (Measuring cycle: 7 seconds/ test)"
+        },
+        {
+          "feature": "Test category",
+          "specifications": "Routine, STAT and QC"
+        },
+        {
+          "feature": "Lockout Functions",
+          "specifications": "Strip Lockout: Available Upon Request,User/QC  Lockout:  Included with option to turn ON/OFF"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "Last 2,000 results"
+        },
+        {
+          "feature": "Strip Incubation Time",
+          "specifications": "1 Minute"
+        },
+        {
+          "feature": "Wavelength",
+          "specifications": "525 and 635 nm"
+        },
+        {
+          "feature": "Default strip types U033",
+          "specifications": "11U, 10S, 9N, 5KE, 4UE, 2GE"
+        },
+        {
+          "feature": "Default strip types U034",
+          "specifications": "11UW, 10SW, 9NW, 5KEW, 4UEW, 2GEW, 2CEW"
+        },
+        {
+          "feature": "strips available",
+          "specifications": "2 – 11 parameters"
+        },
+        {
+          "feature": "Strip size",
+          "specifications": "108 x 5 mm"
+        },
+        {
+          "feature": "Parameter Order",
+          "specifications": "Can select the order of parameters for display and print out"
+        },
+        {
+          "feature": "Combinations per Analyzer",
+          "specifications": "U033 Strip: 6 combinations,U034 Strip: 7 combin"
+        },
+        {
+          "feature": "Waste  Disposal Capacity",
+          "specifications": "Up to 150 strips"
+        },
+        {
+          "feature": "Analyzer ports",
+          "specifications": "RS232C Port for Barcode Reader, Data Transfer, and Software Update,USB Port for  Data Transfer,25 Pin Parallel Port for  External  Printer"
+        },
+        {
+          "feature": "Data entry capabilities",
+          "specifications": "Urine Color (yellow, orange, red, green, blue, brown, and other) and Clarity (clear, slightly cloudy, cloudy, turbid, and other) – Manual Entry,Operator  ID/ Patient  ID – Manual Entry and Barcode Reader (Up  to 25  characters)"
+        },
+        {
+          "feature": "Data Transfer Options*",
+          "specifications": "Data for single entry, all the data in database, data from specific date"
+        },
+        {
+          "feature": "Data Search Options*",
+          "specifications": "Test number, positive results, patient ID, date, STAT results, QC results"
+        },
+        {
+          "feature": "Software Updates*",
+          "specifications": "Can be updated via RS232C cable"
+        },
+        {
+          "feature": "Connection  Capabilities*",
+          "specifications": "Internal Thermal Printer (included),Optional External Printer (not included),RS232C  port for  Software Update (included),RS232C Barcode  Reader (optional), USB or RS232C Data Transfer Cable (optional)"
+        },
+        {
+          "feature": "Major  Readable Barcodes",
+          "specifications": "Code 128, Code 39,Codabar (NW-7),EAN 8,EAN 13,Interleave 2,UPCA,UPCE"
+        },
+        {
+          "feature": "Screen Type*",
+          "specifications": "TFT LCD color touch screen (11.5 x 9  cm)"
+        },
+        {
+          "feature": "LIS Interface*",
+          "specifications": "Formatted and compatible with ACON standard interface, HL-7 compliant  and other interfaces"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Available Languages  on the Screen*",
+          "specifications": "More than 8 languages available, including English"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "0-40″C (32-104″F); < 85% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "-5-50 °C (23-122°F); < 90% RH"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "100-240 VAC, 50-60 Hz"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "36.6 x  28.3 x  19.5 cm (14.4″ x 11.1″ x 7.7″)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "11.5 x 9 cm (4.5″ x 3.5″)"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "4.0 kg (8.8 lbs.) without  batteries or power  supply"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Urine Reagent Strips",
+      "caption": "The Mission® Urinalysis Strips are a great tool to get insight into the patient’s overall health and their metabolic, liver and kidney functions.",
+      "description": "The Mission® Urinalysis Strips are a great tool to get insight into the patient’s overall health and their metabolic, liver and kidney functions. It is a very cost effective screening tool. The Mission® Urinalysis Strips are very reliable and have comparable performance to the market leaders.",
+      "image": "/reagent-strips.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Analytical sensitivity comparable to market leaders",
+        "High quality color chart ensures accurate visual reading",
+        "Compatible for visual and analyzer reading",
+        "Over 35 different combinations available ",
+        "24 months shelf life for unopened canisters",
+        "3 months shelf life once the canister is opened",
+        "Available in 100 strips per canister",
+        "MA/CRE strips available in 25 strips per canister",
+        "Individually packaged strips available in kits of 3 or 6 strips for visual reading only (includes 1 color chart)"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Urine Controls",
+      "caption": "The Mission® Urine Controls are used with the Mission® Urinalysis Reagent Strips, and Urine Analyzers for optimum quality control.",
+      "description": "The Mission® Urine Controls are used with the Mission® Urinalysis Reagent Strips, and Urine Analyzers for optimum quality control..",
+      "image": "/urine-controls.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Ensures accurate results for all parameters",
+        "Validate urinalysis results in any setting",
+        "Use with Mission® and Mission® Expert Urinalysis Reagent Strips and Urine Analyzers for optimum quality control",
+        "Used for quality control of Urine Analyzers ",
+        "Quick and easy protocol allows for fast results with minimal error",
+        "Dropper tip bottles provide efficient use of the control solution",
+        "Easily drop the control solution onto each reagent pad using the dropper tip bottle",
+        "Diptube packaging allows for quick testing similar to using a urine specimen",
+        "Simply dip the strip into the control solution and read the result"
+      ],
+      "tableRows": [
+        {
+          "feature": "Product Name",
+          "specifications": "Liquid Urine Control"
+        },
+        {
+          "feature": "Test Parameters",
+          "specifications": "LEU, NIT, URO, PRO, pH, BLO, SG, KET, BIL, GLU, ASC, ALB, CRE, CA (13)"
+        },
+        {
+          "feature": "Solution Detection Levels, Level 1",
+          "specifications": "Negative: LEU, NIT, URO, PRO, pH, BLO, SG, KET, BIL, GLU, ASC, ALB, CRE, CA"
+        },
+        {
+          "feature": "Solution Detection Levels, Level 2",
+          "specifications": "Positive: LEU, NIT, URO, PRO, pH, BLO, SG, KET, BIL, GLU, ALB CRE, CA; and Negative ASC"
+        },
+        {
+          "feature": "Compatible Urine Strips",
+          "specifications": "Mission® Urinalysis Reagent Strips, Mission®  Expert Urinalysis Reagent Strips"
+        },
+        {
+          "feature": "Reading Time/Stability",
+          "specifications": "Refer to insert"
+        },
+        {
+          "feature": "Storage Temperature",
+          "specifications": "2-8° C"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "24 Months"
+        },
+        {
+          "feature": "Opened Control Stability",
+          "specifications": "30 days at 15-30°C or until the expiration date at 2-8°C"
+        },
+        {
+          "feature": "Maximum Tests per Unit",
+          "specifications": "20 or 40 tests/bottle"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "U120 Smart Urine Analyzer",
+      "caption": "The Mission® U120 Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips.",
+      "description": "The Mission® U120 Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips.  The analyzer has the capability of running up to 120 tests per hour and to save and recall 2,000 results.  The Mission® U120 Urine Analyzer simplifies testing and while providing accurate results. The analyzer is 510(k) Cleared and CLIA Waived for use with the Mission® Urinalysis Reagent Strips and Mission® Urine Controls.",
+      "image": "/urine-analyzer-u120.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Up to 120 tests/hour in Continuous Test Option",
+        "Test categories include Routine, STAT and QC",
+        "Automatic calibration for accurate results and easy operation",
+        "Can read strips with up to 11 parameters, including Microalbumin/Creatine/Ascorbic Acid",
+        "Record Operator/Patient ID by Manual Entry and Barcode Reader",
+        "Capable of data transfer to an external computer or LIS",
+        "Automatically stores last 2,000 results",
+        "Can print up to 3 copies per test for convenient reviewing and easy record keeping",
+        "Option to print results on sticker paper for quick and simple record management"
+      ],
+      "tableRows": [
+        {
+          "feature": "Type",
+          "specifications": "Semi-Automatic"
+        },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance PhotometryLEU, NIT, URO, PRO, pH, BLO, SG, KET, BIL, GLU, ASC, ALB, CRE, CA (13)"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "Single Test Option: 60 tests/hour, Continuous Test Option: 120 tests/hour"
+        },
+        {
+          "feature": "Test Categories",
+          "specifications": "Routine, STAT and QC"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "Last 2,000 results"
+        },
+        {
+          "feature": "Strip Incubation Time",
+          "specifications": "1 Minute"
+        },
+        {
+          "feature": "Wavelength of Monochromatic LED",
+          "specifications": "525 nm and 635 nm"
+        },
+        {
+          "feature": "Strips Available",
+          "specifications": "1-11 parameters (108 x 5 mm); see URS Parameters"
+        },
+        {
+          "feature": "Total Combinations Per Analyzer",
+          "specifications": "15 Combinations"
+        },
+        {
+          "feature": "Analyzer Ports",
+          "specifications": "RS232C Port for Barcode Reader or Data Transfer, USB Port for Data Transfer, 25 Pin Parallel Port for External Printer"
+        },
+        {
+          "feature": "Data Entry Capabilities",
+          "specifications": "Operator/Patient ID – Manual Entry and Barcode Reader (Up to 20 characters)"
+        },
+        {
+          "feature": "Connection Capabilities",
+          "specifications": "USB or RS232C Data Transfer Cable (optional),RS232C Barcode Reader (optional), Optional External Printer (not included)"
+        },
+        {
+          "feature": "Major Readable Barcodes",
+          "specifications": "Code 128, Code 39, Codabar (NW-7), EAN 8, EAN 13, Interleave 25, UPCA, UPCE"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Languages",
+          "specifications": "English, French, German, Italian, Portuguese and Spanish"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "0-40°C (32-104° F); < 85% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": " -5-50°C (23-122° F); < 90% RH"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "100-240 VAC, 50-60 Hz"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "27.2 x 26.9 x 14.6 cm (10.7″ x 10.6″ x 5.7″)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "10.8 x 5.7 cm (4.2″ x 2.2″)"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "2.6 kg (5.7 lbs) without batteries or power supply"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "U120 Ultra Urine Analyzer",
+      "caption": "The Mission® U120 Ultra Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips.",
+      "description": "The Mission® U120 Ultra Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips. Its large and intuitive color touchscreen LCD makes it a pleasant operating experience for the user. The Mission® U120 Ultra software includes a lot of useful features, such as a work list, that make it the perfect candidate for any small to medium lab.",
+      "image": "/ultra-urine-analyzer.jpg",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Large color touchscreen LCD for simple menu navigation",
+        "Work List option, and troubleshooting Help Menu available",
+        "Powered by AC adaptor or 6 AA batteries for easy portability",
+        "Up to 2,000 patient memory and 800 Operator ID storage",
+        "Ability to select Time Logout between 1-99 with minutes or hour option",
+        "Urine color and clarity can be manually entered for better reference, while urine color can also be detected automatically for better accuracy",
+        "Advanced CMOS Image Sensor ensures accurate readings",
+        "Can read strips with up to 14 parameters, including Microalbumin, Creatinine, and Calcium",
+        "Option to edit test number sequence or skip then return to specific test numbers",
+        "Ability to edit abnormal results"
+      ],
+      "tableRows": [
+        {
+          "feature": "Analyzer Type",
+          "specifications": "Semi-Automatic"
+        },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance  Photometry"
+        },
+        {
+          "feature": "Detection",
+          "specifications": "CMOS Image Sensor"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "Single Test Option: 55 tests/ hour, Continuous Test Option: 120 tests/ hour"
+        },
+        {
+          "feature": "Test Modes",
+          "specifications": "Quick Test Mode Full Test Mode and Customized Test Mode"
+        },
+        {
+          "feature": "Test Categories",
+          "specifications": "Routine, STAT, and QC"
+        },
+        {
+          "feature": "Lockout Functions",
+          "specifications": "Strip Lockout: Available Upon Request, User/QC Lockout: Included with option to turn ON/OFF"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "Last 2,000 results"
+        },
+        {
+          "feature": "Strip Incubation Time",
+          "specifications": "1 Minute"
+        },
+        {
+          "feature": "Wavelength",
+          "specifications": "390 nm – 770 nm"
+        },
+        {
+          "feature": "Strips Available",
+          "specifications": "1- 14 Parameters  f108  mm x  5 mml; see URS Parameters"
+        },
+        {
+          "feature": "Parameter Order",
+          "specifications": "Can select the order of parameters for display and print out"
+        },
+        {
+          "feature": "Total Combinations per Analyzer",
+          "specifications": "Over 15 combinations"
+        },
+        {
+          "feature": "Analyzer Ports",
+          "specifications": "RS232C Port for Barcode Reader or Data Transfer,External Printer USB Port for Keyboard or Data Transfer"
+        },
+        {
+          "feature": "Data Entry Capabilities",
+          "specifications": "Operator ID, Patient name/ ID – Manual Entry and Barcode Reader (Up to 20 characters), Urine Color and Clarity, Strip Lot Number, Expiration Date – Manual Entry"
+        },
+        {
+          "feature": "Connection  Capabilities",
+          "specifications": "Bluetooth Adaptor (optional),Optional  External  Printer (not included),USB or RS232C  Data Transfer  Cable (optional),SD Card or USB flash drive for  Software Update (optional), External Keyboard  (not included), RS232C  Barcode Reader (optional)"
+        },
+        {
+          "feature": "Major  Readable Barcodes",
+          "specifications": "Code 39, Code 93, Code 128, Codabar (NW-7), EAN 8, EAN 13, EAN 128, French Pharmacode, Industrial 25, Interleave 25, Italy Pharmacode, Matrix 25, MSI, Plessey, RSS, Telepen, UPCA, UPCE"
+        },
+        {
+          "feature": "Screen Type",
+          "specifications": "Large color touch screen LCD (12 x 9 cm)"
+        },
+        {
+          "feature": "LIS Interface",
+          "specifications": "HL-7 compliant"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Available  Languages  on the Screen",
+          "specifications": "More than 10 languages available , including English"
+        },
+        {
+          "feature": "Analyzer Operating Conditions",
+          "specifications": "0-40° ( 32-104 °F) 5%-85% RH"
+        },
+        {
+          "feature": "System Operating Conditions",
+          "specifications": "15-30°C (59-86 °F); 20%-80% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "-5-50 °C (23-122°F); 90% RH"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "100-240 VAC, 45-65 Hz; 6 AA Alkaline Batteries"
+        },
+        {
+          "feature": "Line Leakage  Current",
+          "specifications": "0.5 mA"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "26 x 15 x 18 cm (10″ x 6″ x 7″)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "12 x 9 cm (5″ x 4″)"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "1.7 Kg (3.7 lbs.) without  batteries or power  supply"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "U500 Urine Analyzer",
+      "caption": "The Mission® U500 Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips.",
+      "description": "The Mission® U500 Urine Analyzer is a great tool to use with the Mission® Urinalysis Reagent Strips.  The analyzer has the capability of running up to 500 tests per hour and saving and recalling 2,000 results.  The Mission® U500 Urine Analyzer simplifies testing and while providing accurate results. This analyzer is 510(k) Cleared.",
+      "image": "/urine-analyzer-u500.jpg",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Up to 500 tests/hour",
+        "Test categories include Routine, STAT and QC",
+        "Automatic calibration for accurate results and easy operation",
+        "Can read strips with up to 11 parameters, including Microalbumin/Creatine/Ascorbic Acid",
+        "Software includes 12 strip types",
+        "Ability to build a work lis",
+        "Capability of data transfer to an external computer or LIS",
+        "Automatically stores last 2,000 results",
+        "Can print up to 3 copies per test for convenient reviewing and easy record keeping",
+        "Option to print results on sticker paper for quick and simple record management"
+      ],
+      "tableRows": [
+        {
+          "feature": "Analyzer Type",
+          "specifications": "Semi-Automatic"
+        },
+        {
+          "feature": "Methodology",
+          "specifications": "Reflectance Photometry"
+        },
+        {
+          "feature": "Detection",
+          "specifications": "Photosensitive Diode"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "500 tests/hour (Measuring cycle: 7 seconds/test)"
+        },
+        {
+          "feature": "Test Categories",
+          "specifications": "Routine, STAT and QC"
+        },
+        {
+          "feature": "Lockout Functions",
+          "specifications": "Strip Lockout: Available Upon Request, User/QC Lockout: Included with option to turn ON/OF"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "Last 2,000 Records"
+        },
+        {
+          "feature": "Strip Incubation Time",
+          "specifications": "1 Minute"
+        },
+        {
+          "feature": "Wavelength",
+          "specifications": "525 and 635 nm"
+        },
+        {
+          "feature": "Parameter Order",
+          "specifications": "Can select the order of parameters for display and print out"
+        },
+        {
+          "feature": "Strip Combinations per Analyze",
+          "specifications": "12 combinations available"
+        },
+        {
+          "feature": "Languages",
+          "specifications": "English, French, German, Indonesian, Italian, Polish, Portuguese and Spanis"
+        },
+        {
+          "feature": "Waste Disposal Capacity",
+          "specifications": "Up to 150 Strips"
+        },
+        {
+          "feature": "Analyzer Ports",
+          "specifications": "RS232C Port for Barcode Reader or Data Transfer, 25 Pin Parallel Port for External Printer"
+        },
+        {
+          "feature": "Data Entry Capabilities",
+          "specifications": "Operator/Patient ID – Manual Entry and Barcode Reader (Up to 25 characters)"
+        },
+        {
+          "feature": "Connection Capabilities",
+          "specifications": "RS232C Data Transfer Cable (optional), RS232C Barcode Reader (optional), Optional External Printer (not included)"
+        },
+        {
+          "feature": "Major Readable Barcodes",
+          "specifications": "Code 128, Code 39, Codabar (NW-7), EAN 8, EAN 13, Interleaved 25, UPCA UPCE"
+        },
+        {
+          "feature": "Calibration",
+          "specifications": "Automatic"
+        },
+        {
+          "feature": "Operating Conditions",
+          "specifications": "0-40°C (32-104°F); -<85% RH"
+        },
+        {
+          "feature": "Storage Conditions",
+          "specifications": "-5-50°C (23-122°F); -<90% RH"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "100-240 VAC, 50-60 Hz"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "36.6 x 28.3 x 19.5cm (14.4″ x 11.1″ x 7.7″)"
+        },
+        {
+          "feature": "Display Dimensions",
+          "specifications": "11.5 x 9.0 cm (4.5″ x 3.5″)"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "4.0 kg (8.8 lbs) without batteries or power supply"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Mission® HA-360 3-diff Automatic Hematology Analyzer",
+      "caption": "With the Mission® HA-360 3-diff Automatic Hematology Analyzer, healthcare professionals can be assured that they are getting the accuracy and reliability they need and expect.",
+      "description": "The Mission® HA-360 3-diff Automatic Hematology Analyzer is designed specifically to meet the needs of healthcare professionals at the point of care.For professional use.",
+      "image": "/ha-360.png",
+      "category": 6,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Sheath Flow Impedance Method for RBCs/PLTs counting",
+        "LED and receiver tube fully integrated—for greater HGB stability",
+        "Performs rapid and accurate analysis of 21 parameters",
+        "Proven technology for accuracy of results",
+        "Linearity to support clinical diagnostics and monitoring",
+        "Comprehensive QC information",
+        "Barcoded reagent management",
+        "One-click troubleshooting",
+        "Daily maintenance time reminder: Convenient for daily work",
+        "Non-toxic, biodegradable reagent system",
+        "Two basic reagents (diluent and lyser) for complete results"
+      ],
+      "tableRows": [
+        {
+          "feature": "Principles & Technologies",
+          "specifications": "WBC: Impedance Method,RBC, PLT: Sheath Flow Impedance Method,HGB: Colorimetric Method"
+        },
+        {
+          "feature": "Parameters",
+          "specifications": "Whole Blood (WB) and Pre-Dilute (PD),Mode; 21 parameters,WBC; LYM#; MXD#; NEUT#; LYM%; MXD%; NEUT%; RBC; HGB; HCT; MCV; MCH; MCHC; RDW-CV; RDW-SD; PLT; MPV; PDW; PCT; P-LCR; P-LCC"
+        },
+        {
+          "feature": "Histogram",
+          "specifications": "WBC (3-Part Differential), RBC, PLT"
+        },
+        {
+          "feature": "Data Storage",
+          "specifications": "50,000 complete sample results with histograms"
+        },
+        {
+          "feature": "Power Source",
+          "specifications": "(100-240V) AC; 50 Hz/60 Hz; 300 VA"
+        },
+        {
+          "feature": "Dimensions",
+          "specifications": "340 mm*465mm*425mm"
+        },
+        {
+          "feature": "Weight",
+          "specifications": "24.3 kg"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "ACON® COVID-19 IgG/IgM Rapid Test",
+      "caption": "Detects IgG/IgM antibodies to SARS-CoV-2.",
+      "description": "Detects IgG/IgM antibodies to SARS-CoV-2",
+      "image": "/acon-covid-19.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Relative Sensitivity: 99.1% (95.12 – 99.98 %)*",
+        "Relative Specificity: 98.2% (96.29 – 99.27%)*",
+        "Accuracy: 98.5% (96.9 – 99.5%)*",
+        "Test Cassette",
+        "Detects IgG and IgM",
+        "Small sample volume",
+        "Multiple sample formats",
+        "Fast results",
+        "Serum",
+        "Plasma",
+        "Whole Blood: Venous, Fingerstick"
+      ],
+      "tableRows": [
+        {
+          "feature": "Test Format(s)",
+          "specifications": "Cassette"
+        },
+        {
+          "feature": "Specimen Format(s)",
+          "specifications": "Serum / Plasma / Whole Blood from Venous or Fingerstick"
+        },
+        {
+          "feature": "Detects",
+          "specifications": "IgG/IgM antibodies to SARS-CoV-2 "
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "Serum / Plasma: 10 μL, Whole Blood: 15 μL"
+        },
+        {
+          "feature": "Specificity",
+          "specifications": "≥ 98.2 %"
+        },
+        {
+          "feature": "Sensitivity",
+          "specifications": "≥ 99.1 %"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "15 – 20 minutes"
+        },
+        {
+          "feature": "Shelf Life",
+          "specifications": "12 Months"
+        },
+        {
+          "feature": "Storage Temperature",
+          "specifications": "2 – 30 °C"
+        },
+        {
+          "feature": "Package Includes",
+          "specifications": "Cassette, Disposable specimen applicator, Buffer, Package Insert"
+        },
+        {
+          "feature": "Tests / Kit",
+          "specifications": "25 Tests / Kit"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "ACON® H. pylori Rapid Tests",
+      "caption": "",
+      "description": "",
+      "image": "/acon-h.pylori.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Detect a recent / previous infections ",
+        "Detect current infection",
+        "Sensitivity: 94.7%",
+        "Specificity: 99.4%",
+        "Sensitivity: 99.0%",
+        "Specificity: 98.9%",
+        "Test Cassettes",
+        "Droppers",
+        "Package Inserts",
+        "Buffer (S/P/BW only)",
+        "Specimen collection tube with extraction buffe"
+      ],
+      "tableRows": [
+        {
+          "feature": "Test Format(s)",
+          "specifications": "Cassette"
+        },
+        {
+          "feature": "Specimen Format(s)",
+          "specifications": "Ab Test: Serum / Plasma, Serum / Plasma / Whole Blood. Ag Test:  Feces "
+        },
+        {
+          "feature": "Detects",
+          "specifications": "Ab Test: IgG antibodies against H. pylori, Ag Test: H. pylori Antigens "
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "Ab Test: Serum / Plasma: 80 μL, Ag Test: Serum / Plasma / Whole Blood: 50 μL"
+        },
+        {
+          "feature": "Specificity",
+          "specifications": "Ab Test: 99.4%, Ag Test: 98.9%"
+        },
+        {
+          "feature": "Sensitivity",
+          "specifications": "Ab Test: 94.7%, Ag Test: 99.0%"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "Ab Test: 10 Minutes, Ag Test: 10 Minutes"
+        },
+        {
+          "feature": "Shelf Life",
+          "specifications": "24 Months"
+        },
+        {
+          "feature": "Storage Temperature",
+          "specifications": "2 – 30 °C"
+        },
+        {
+          "feature": "Package Includes",
+          "specifications": "Cassette, Droppers, Buffer (for S/P/WB), Specimen Collection Tubes w/ Extraction Buffer (for Ag test), Package Insert"
+        },
+        {
+          "feature": "Tests / Kit",
+          "specifications": "50 Strips / Kit, 40 Cassettes / Kit"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "ACON® Syphilis Rapid Test",
+      "caption": "",
+      "description": "",
+      "image": "/acon-syphilis-test.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Sensitivity: > 99%",
+        "Specificity: > 99%",
+        "Strip",
+        "Cassette",
+        "Serum and Plasma",
+        "Serum, Plasma, and Whole Blood"
+      ],
+      "tableRows": [
+        {
+          "feature": "Test Format(s)",
+          "specifications": "Strip, Cassette"
+        },
+        {
+          "feature": "Specimen Format(s)",
+          "specifications": "Serum / Plasma, Serum / Plasma / Whole Blood"
+        },
+        {
+          "feature": "Detects",
+          "specifications": "IgG & IgM (by recombinant TP15, TP17, TP47 Ag) "
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "Serum / Plasma: 80 μL, Serum / Plasma / Whole Blood: 50 μL"
+        },
+        {
+          "feature": "Specificity",
+          "specifications": "> 99%"
+        },
+        {
+          "feature": "Sensitivity",
+          "specifications": "> 99%"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "10 Minutes"
+        },
+        {
+          "feature": "Shelf Life",
+          "specifications": "24 Months"
+        },
+        {
+          "feature": "Storage Temperature",
+          "specifications": "2 – 30 °C"
+        },
+        {
+          "feature": "Package Includes",
+          "specifications": "Test, Dropper, Buffer (for S/P/WB), Package Insert"
+        },
+        {
+          "feature": "Tests / Kit",
+          "specifications": "50 Strips / Kit, 40 Cassettes / Kit"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "ACON® FOB Rapid Test",
+      "caption": "Available in two formats: Cassette or Strip",
+      "description": "Available in two formats: Cassette or Strip",
+      "image": "/acon-fob-test.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Sensitivity: > 99.9%",
+        "Specificity: 98.4%",
+        "Easy to follow instructions",
+        "Tubes with extraction buffer",
+        "Reaction Tubes included (strips only)",
+        "Available as Cassette or Strip",
+        "Rapid test results",
+        "Store at room temperature"
+      ],
+      "tableRows": [
+        {
+          "feature": "Test Format(s)",
+          "specifications": "Cassette, Strip"
+        },
+        {
+          "feature": "Specimen Format(s)",
+          "specifications": "Feces "
+        },
+        {
+          "feature": "Detects",
+          "specifications": "Fecal Occult Blood – Hemoglobin "
+        },
+
+        {
+          "feature": "Specificity",
+          "specifications": "98.40%"
+        },
+        {
+          "feature": "Sensitivity",
+          "specifications": "> 99.9%"
+        },
+        {
+          "feature": "Detection level",
+          "specifications": "50 ng/mL hemoglobin, or 6 μg hemoglobin/g feces"
+        },
+        {
+          "feature": "Test Time",
+          "specifications": "5 Minutes"
+        },
+        {
+          "feature": "Shelf Life",
+          "specifications": "24 Months"
+        },
+        {
+          "feature": "Storage Temperature",
+          "specifications": "2 – 30 °C"
+        },
+        {
+          "feature": "Package Includes",
+          "specifications": "Test, Reaction Tubes (Strips only), Speciment Collection Tubes w/ Buffer, Package Insert"
+        },
+        {
+          "feature": "Tests / Kit",
+          "specifications": "25 Tests / Kit"
+        }
+      ]
     }
   ]
 }
