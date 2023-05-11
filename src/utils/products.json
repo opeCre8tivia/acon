@@ -482,8 +482,8 @@
     {
       "id": 14,
       "name": "Distinct® Pregnancy Test",
-      "caption": "",
-      "description": "",
+      "caption": "Highly reliable and acurate",
+      "description": "Highly reliable and acurate",
       "image": "/distinct-pregnancy-test.png",
       "category": 8,
       "isFeatured": false,
@@ -523,8 +523,8 @@
     {
       "id": 15,
       "name": "Distinct® Early Detection Pregnancy Test",
-      "caption": "",
-      "description": "",
+      "caption": "The Distinct®  Early Detection Pregnancy Test is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) in urine. The test is sensitive enough to detect pregnancy up to 6 days early.",
+      "description": "The Distinct®  Early Detection Pregnancy Test is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) in urine. The test is sensitive enough to detect pregnancy up to 6 days early.",
       "image": "/early-detection-pregnancy-test.png",
       "category": 8,
       "isFeatured": false,
@@ -568,8 +568,8 @@
     {
       "id": 16,
       "name": "Distinct® Digital Test",
-      "caption": "",
-      "description": "",
+      "caption": "The Distinct® Digital Pregnancy Test is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) in urine. The test is sensitive enough to detect pregnancy up to 6 days early.",
+      "description": "The Distinct® Digital Pregnancy Test is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) in urine. The test is sensitive enough to detect pregnancy up to 6 days early.",
       "image": "/digital-test.png",
       "category": 8,
       "isFeatured": false,
@@ -2235,6 +2235,176 @@
           "feature": "Tests / Kit",
           "specifications": "25 Tests / Kit"
         }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Foresight® Allergen Test Kit",
+      "caption": "Qualitative detection of circulating allergen-specific Immunoglobulin E (IgE ) in human serum.",
+      "description": "Qualitative detection of circulating allergen-specific Immunoglobulin E (IgE ) in human serum.",
+      "image": "/allargent-kit.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "High sensitivity and specificity",
+        "High sensitivity and specificity",
+        "Ready-to-use reagents shorten initial prep time",
+        "Test 29 allergens and Total IgE per strip with only 250 μL serum",
+        "Results and evaluation in 2.5 hours",
+        "Shelf life of 24 monthsAvailable as Cassette or Strip"
+      ],
+      "tableRows": [
+        {
+          "feature": "Catalog No.",
+          "specifications": "I031-1011"
+        },
+        {
+          "feature": "Strips per Kit",
+          "specifications": "10 "
+        },
+        {
+          "feature": "Analytes per Strip",
+          "specifications": "29 allergens and Total IgE"
+        },
+
+        {
+          "feature": "Detection",
+          "specifications": "Circulating allergen specific Immunoglobulin E (IgE )"
+        },
+        {
+          "feature": "Type of Test",
+          "specifications": "Qualitative"
+        },
+        {
+          "feature": "Principle",
+          "specifications": "Immunoblot"
+        },
+        {
+          "feature": "Specimen",
+          "specifications": "Serum"
+        },
+        {
+          "feature": "Specimen Volume",
+          "specifications": "250 μL"
+        },
+        {
+          "feature": "Specimen Wash Volume",
+          "specifications": "20 mL"
+        },
+        {
+          "feature": "Detector Antibody",
+          "specifications": "4 mL"
+        },
+        {
+          "feature": "Conjugate Volume",
+          "specifications": "4 mL"
+        },
+        {
+          "feature": "Substrate Volume",
+          "specifications": "4 mL"
+        },
+        {
+          "feature": "Total Incubation Time",
+          "specifications": "(45/45/20/20 min)"
+        },
+        {
+          "feature": "Sensitivity",
+          "specifications": "0.35 IU/mL"
+        },
+        {
+          "feature": "Specificity",
+          "specifications": "< 0.021% (cross-reaction with Human IgM, IgA, IgG)"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Flowflex® COVID-19 Antigen Home Test",
+      "caption": "A rapid test for the detection of COVID-19 antigens in nasal specimens.",
+      "description": "The Flowflex® COVID-19 Antigen Home Test is all you need to determine your family’s Covid-19 status, whether symptoms are present or not. Can be used on children as young as 2 years old. Get the convenience of Flowflex! A rapid test for the detection of COVID-19 antigens in nasal specimens.",
+      "image": "/flowflex-covid-19-test.png",
+      "category": 4,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Affordable",
+        "Easy-to-Use Nasal Swab Test",
+        "Results in 15 minutes",
+        "Safe for children as young as 2 years old",
+        "For use with and without symptoms"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "On Call Plus Glucometer",
+      "caption": "At its core, the On Call® brand is committed to the health of our customers. Carefully designed for accuracy and reliability.",
+      "description": "At its core, the On Call® brand is committed to the health of our customers. Carefully designed for accuracy and reliability, the On Call® Blood Glucose Meter Family has helped millions of patients worldwide effectively manage their glucose levels. The foundation for successfully managing your diabetes starts with your meter. By choosing On Call®, you can rest assured knowing your meter is more than a means to accurate results; it is the cornerstone in your diabetes management.",
+      "image": "/oncall-gluco-meter.png",
+      "category": 5,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Clinically proven accuracy",
+        "GOD enzyme has high specificity with no interference from maltose, galactose",
+        "Optional individually packaged test strips available",
+        "0.5μL blood sample only",
+        "Automatic detection of insufficient sample"
+      ],
+      "tableRows": [
+        {
+          "feature": "Enzyme",
+          "specifications": "Glucose Oxidase (GOD)"
+        },
+        {
+          "feature": "Test time",
+          "specifications": "10 seconds"
+        },
+        {
+          "feature": "Sample type",
+          "specifications": "Fresh capillary whole blood "
+        },
+
+        {
+          "feature": "Hematocrit Range",
+          "specifications": "25-60%"
+        },
+        {
+          "feature": "Hb Measurement Range",
+          "specifications": "20 - 600 mg/dL (1.1 - 33.3 mmol/L)"
+        },
+        {
+          "feature": "Sample size",
+          "specifications": "0.5 μL"
+        },
+        {
+          "feature": "Coding method",
+          "specifications": "code"
+        },
+        {
+          "feature": "Memory",
+          "specifications": "300 results with date and time"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "On Call Plus Glucometer Blood Glucose Test Strip",
+      "caption": "Blood glucose test strips provides room for the sample blood as to enable the accurate blood glucose level to be taken in order to prevent the occurrence and development of Diabetes.",
+      "description": "Blood glucose test strips provides room for the sample blood as to enable the accurate blood glucose level to be taken in order to prevent the occurrence and development of Diabetes.No CodingInsert the end of the contact bar into the meter firmly until the strip will go no further, make sure the front side (blue) of the strip face up when insert, then the blood sugar monitor will be ready to check the blood glucose value.Less PainfulOnly 0.7µl blood sample required, less painful and more friendly. The feature of automatic siphon keeps blood from being wasted. Fast and Easy to ReadJust 7 second to get the measurement after applying the blood sample. Easy to read for the senior with large display.",
+      "image": "/oncall-plus-strips.jpg",
+      "category": 5,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "No Coding",
+        "0.7μl Blood Sample",
+        "7 Second to Read",
+        "450 Data Storage",
+        "14/21/28/60/90 Day Averages",
+        "4 Reminder Alarms",
+        "Easy to use",
+        "Easy to carry"
       ]
     }
   ]
