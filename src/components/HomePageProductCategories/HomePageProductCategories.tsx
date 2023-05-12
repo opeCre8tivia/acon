@@ -47,7 +47,7 @@ const HomePageProductCategories = () => {
     <div className="w-full h-fit sm:grid sm:grid-cols-2 gap-3 px-4 ">
       {categories &&
         categories.map((category, index) => {
-          return <CategoryCard item={category} />;
+          return <CategoryCard item={category} key={index} />;
         })}
     </div>
   );
