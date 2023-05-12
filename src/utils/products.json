@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "id": 1,
-      "name": "flowflex",
-      "title": "Our newest brand",
-      "description": "FlowflexTM is the newest brand addition to the ACON product portfolio.  The Flowflex SARS-CoV-2 Rapid Antigen Test is the first in this family of lateral flow testing products.",
-      "logo": "/flowflex-logo.png"
+      "id": 6,
+      "name": "mission",
+      "title": "Point of care testing (POCT)",
+      "description": "Our product offering includes a variety of urine reagent test strips, urine analyzers and handheld devices for the measurement of cholesterol, coagulation and hemoglobin.",
+      "logo": "/mission-logo.png"
     },
     {
       "id": 2,
@@ -36,11 +36,18 @@
       "logo": "/oncall-logo.png"
     },
     {
-      "id": 6,
-      "name": "mission",
-      "title": "Point of care testing (POCT)",
-      "description": "Our product offering includes a variety of urine reagent test strips, urine analyzers and handheld devices for the measurement of cholesterol, coagulation and hemoglobin.",
-      "logo": "/mission-logo.png"
+      "id": 8,
+      "name": "distinct",
+      "title": "Pregnancy Rapid Tests",
+      "description": "Rapid chromatographic immunoassays for the qualitative detection of human chorionic gonadotropin (hCG) in urine.",
+      "logo": "/distinct-logo.png"
+    },
+    {
+      "id": 1,
+      "name": "flowflex",
+      "title": "Our newest brand",
+      "description": "FlowflexTM is the newest brand addition to the ACON product portfolio.  The Flowflex SARS-CoV-2 Rapid Antigen Test is the first in this family of lateral flow testing products.",
+      "logo": "/flowflex-logo.png"
     },
     {
       "id": 7,
@@ -48,13 +55,6 @@
       "title": "Personal Care tests",
       "description": "HealthyMe is a newly created product line. Our current product offering includes UTI and fertility tests.The product selection is expected to grow with new personal health tests.",
       "logo": "/healthme-logo.png"
-    },
-    {
-      "id": 8,
-      "name": "distinct",
-      "title": "Pregnancy Rapid Tests",
-      "description": "Rapid chromatographic immunoassays for the qualitative detection of human chorionic gonadotropin (hCG) in urine.",
-      "logo": "/distinct-logo.png"
     }
   ],
   "products": [
@@ -163,7 +163,7 @@
       "description": "The semi-automatic NES-32 nucleic acid extraction system is efficient, easy to operate and offers a throughput of 32 samples per run. Using magnetic bead technology, the NES-32 can process a variety of specimens, including tissue, blood and other bodily fluids.",
       "image": "/promotor-nucleic-acid-extractionkit.png",
       "category": 2,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Part Number: P121-1301",
       "bullet_points": [
         "Ready to Use",
@@ -323,7 +323,7 @@
       "description": "Qualitative detection of nucleic acid from SARS-CoV-2 in oropharyngeal swab, nasopharyngeal swab and deep cough sputum specimens collected from individuals suspected of SARS-CoV-2 by their healthcare provider.Clinical correlation with patient history and other diagnostic information is necessary to determine patient infection status.",
       "image": "/pcr-test-kit.png",
       "category": 2,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Advantages and performance",
       "bullet_points": [
         "Specimens include Oropharyngeal and nasopharyngeal swabs, and deep cough sputum specimens",
@@ -527,7 +527,7 @@
       "description": "The Distinct®  Early Detection Pregnancy Test is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) in urine. The test is sensitive enough to detect pregnancy up to 6 days early.",
       "image": "/early-detection-pregnancy-test.png",
       "category": 8,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Product Features",
       "bullet_points": [
         "Early Detection",
@@ -617,7 +617,7 @@
       "description": "The Mission® Cholesterol system is a novel, handheld point-of- care device that generates rapid lipid panel test results.",
       "image": "/mission-cholestral-meter.png",
       "category": 6,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "5-parameter lipid panel & individual tests",
@@ -1171,7 +1171,7 @@
       "description": "The Mission® Expert Urinalysis Strips are a great tool to get insight into the patient’s overall health and their metabolic, liver and kidney functions. It is a very cost effective screening tool. The Mission® Expert Urinalysis Strips are very reliable and have comparable performance to the market leaders.",
       "image": "/expert-urine-reagent-test.png",
       "category": 6,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "Compatible with visual and/or analyzer reading",
@@ -1492,7 +1492,7 @@
       "description": "The Mission® Urine Controls are used with the Mission® Urinalysis Reagent Strips, and Urine Analyzers for optimum quality control..",
       "image": "/urine-controls.png",
       "category": 6,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "Ensures accurate results for all parameters",
@@ -2244,7 +2244,7 @@
       "description": "Qualitative detection of circulating allergen-specific Immunoglobulin E (IgE ) in human serum.",
       "image": "/allargent-kit.png",
       "category": 4,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "High sensitivity and specificity",
@@ -2325,7 +2325,7 @@
       "description": "The Flowflex® COVID-19 Antigen Home Test is all you need to determine your family’s Covid-19 status, whether symptoms are present or not. Can be used on children as young as 2 years old. Get the convenience of Flowflex! A rapid test for the detection of COVID-19 antigens in nasal specimens.",
       "image": "/flowflex-covid-19-test.png",
       "category": 4,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "Affordable",
@@ -2342,7 +2342,7 @@
       "description": "At its core, the On Call® brand is committed to the health of our customers. Carefully designed for accuracy and reliability, the On Call® Blood Glucose Meter Family has helped millions of patients worldwide effectively manage their glucose levels. The foundation for successfully managing your diabetes starts with your meter. By choosing On Call®, you can rest assured knowing your meter is more than a means to accurate results; it is the cornerstone in your diabetes management.",
       "image": "/oncall-gluco-meter.png",
       "category": 5,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "Clinically proven accuracy",
@@ -2394,7 +2394,7 @@
       "description": "Blood glucose test strips provides room for the sample blood as to enable the accurate blood glucose level to be taken in order to prevent the occurrence and development of Diabetes.No CodingInsert the end of the contact bar into the meter firmly until the strip will go no further, make sure the front side (blue) of the strip face up when insert, then the blood sugar monitor will be ready to check the blood glucose value.Less PainfulOnly 0.7µl blood sample required, less painful and more friendly. The feature of automatic siphon keeps blood from being wasted. Fast and Easy to ReadJust 7 second to get the measurement after applying the blood sample. Easy to read for the senior with large display.",
       "image": "/oncall-plus-strips.jpg",
       "category": 5,
-      "isFeatured": false,
+      "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
         "No Coding",

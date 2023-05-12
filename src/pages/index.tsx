@@ -4,6 +4,8 @@ import About from "@/components/About/About";
 import HeroSection from "@/components/HeroSection/HeroSection";
 import SectionTitle from "@/components/SectionTitle/SectionTitle";
 import FeaturedProducts from "@/components/FeaturedProducts/FeaturedProducts";
+import ViewAll from "@/components/ViewAll/ViewAll";
+import HomePageProductCategories from "@/components/HomePageProductCategories/HomePageProductCategories";
 
 export default function Home() {
   return (
@@ -44,8 +46,16 @@ export default function Home() {
         <About />
         <SectionTitle title="Featured Products" />
         <FeaturedProducts />
+        <ViewAll />
+
+        <SectionTitle title="Product Categories" />
+
+        <HomePageProductCategories />
 
         {/* footer */}
+        {/* compasate botton tabs height on mobile */}
+
+        <div className="h-[80px] w-full sm:hidden"></div>
       </main>
     </>
   );
