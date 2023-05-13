@@ -24,17 +24,17 @@ const Footer = (props: Props) => {
         <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
           <li>
             <ScrollIntoView selector="#about">
-              <div className="mx-5">About</div>
+              <div className="mx-5 hover:underline">About</div>
             </ScrollIntoView>
           </li>
           <li>
             <ScrollIntoView selector="#featured" alignToTop={true}>
-              <div className="mx-5">Products</div>
+              <div className="mx-5 hover:underline">Products</div>
             </ScrollIntoView>
           </li>
           <li>
             <ScrollIntoView selector="#categories" alignToTop={true}>
-              <div className="mx-5">Product Line</div>
+              <div className="mx-5 hover:underline">Product Line</div>
             </ScrollIntoView>
           </li>
           <li>

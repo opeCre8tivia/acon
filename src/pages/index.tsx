@@ -7,6 +7,7 @@ import FeaturedProducts from "@/components/FeaturedProducts/FeaturedProducts";
 import ViewAll from "@/components/ViewAll/ViewAll";
 import HomePageProductCategories from "@/components/HomePageProductCategories/HomePageProductCategories";
 import Footer from "@/components/Footer/Footer";
+import Contact from "@/components/Contact/Contact";
 
 export default function Home() {
   return (
@@ -52,6 +53,8 @@ export default function Home() {
         <SectionTitle title="Product Categories" />
 
         <HomePageProductCategories />
+
+        <Contact />
 
         {/* footer */}
         <Footer />

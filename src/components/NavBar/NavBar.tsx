@@ -13,6 +13,7 @@ export interface NavBarLink {
   name: string;
   href: string;
   Icon: IconType;
+  section: string | null;
 }
 
 const NavBar = () => {
@@ -21,21 +22,25 @@ const NavBar = () => {
       name: "Home",
       href: "/",
       Icon: FaHome,
+      section: null,
     },
     {
       name: "About",
-      href: "#",
+      href: "/#about",
       Icon: MdPermIdentity,
+      section: "#about",
     },
     {
       name: "Products",
       href: "/products/search",
       Icon: MdProductionQuantityLimits,
+      section: null,
     },
     {
       name: "Contact",
       href: "#",
       Icon: MdForwardToInbox,
+      section: null,
     },
   ];
 
