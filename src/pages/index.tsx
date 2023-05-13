@@ -6,6 +6,7 @@ import SectionTitle from "@/components/SectionTitle/SectionTitle";
 import FeaturedProducts from "@/components/FeaturedProducts/FeaturedProducts";
 import ViewAll from "@/components/ViewAll/ViewAll";
 import HomePageProductCategories from "@/components/HomePageProductCategories/HomePageProductCategories";
+import Footer from "@/components/Footer/Footer";
 
 export default function Home() {
   return (
@@ -53,6 +54,7 @@ export default function Home() {
         <HomePageProductCategories />
 
         {/* footer */}
+        <Footer />
         {/* compasate botton tabs height on mobile */}
 
         <div className="h-[80px] w-full sm:hidden"></div>

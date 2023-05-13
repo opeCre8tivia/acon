@@ -12,7 +12,7 @@ const FeaturedProducts = () => {
   }, []);
 
   return (
-    <div className="w-full h-fit sm:grid grid-cols-4 gap-2">
+    <div id="featured" className="w-full h-fit sm:grid grid-cols-4 gap-2">
       {products &&
         products.map((product, index: number) => {
           return (

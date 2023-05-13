@@ -6,7 +6,10 @@ type Props = {};
 const About = (props: Props) => {
   return (
     <section>
-      <div className="w-full h-fit  flex justify-center items-start flex-wrap bg-blue-950">
+      <div
+        id="about"
+        className="w-full h-fit  flex justify-center items-start flex-wrap bg-blue-950"
+      >
         {/* photo */}
         <div className=" w-full flex justify-center items-end  border-b-white border-b-2 sm:border-none sm:w-[50%] ">
           <Image
