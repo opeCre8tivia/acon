@@ -53,9 +53,7 @@ const ProductsByCategory = (props: Props) => {
       <div id="featured" className="w-full h-fit sm:grid grid-cols-4 gap-2">
         {categoryProducts &&
           categoryProducts.map((product, index: number) => {
-            return (
-              product.isFeatured && <ProductCard item={product} key={index} />
-            );
+            return product && <ProductCard item={product} key={index} />;
           })}
       </div>
     </div>

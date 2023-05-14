@@ -6,6 +6,7 @@ import SectionTitle from "@/components/SectionTitle/SectionTitle";
 import { Category } from "@/types/types.ds";
 import { useRouter } from "next/router";
 import NavBar from "@/components/NavBar/NavBar";
+import Footer from "@/components/Footer/Footer";
 
 type Props = {};
 
@@ -63,6 +64,8 @@ const Search = (props: Props) => {
             })}
         </div>
       </section>
+
+      <Footer />
     </div>
   );
 };

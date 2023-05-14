@@ -28,12 +28,12 @@ const Footer = (props: Props) => {
             </ScrollIntoView>
           </li>
           <li>
-            <ScrollIntoView selector="#featured" alignToTop={true}>
+            <ScrollIntoView selector="/#featured" alignToTop={true}>
               <div className="mx-5 hover:underline">Products</div>
             </ScrollIntoView>
           </li>
           <li>
-            <ScrollIntoView selector="#categories" alignToTop={true}>
+            <ScrollIntoView selector="/#categories" alignToTop={true}>
               <div className="mx-5 hover:underline">Product Line</div>
             </ScrollIntoView>
           </li>
