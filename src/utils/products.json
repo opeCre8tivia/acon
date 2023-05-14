@@ -2243,7 +2243,7 @@
       "caption": "Qualitative detection of circulating allergen-specific Immunoglobulin E (IgE ) in human serum.",
       "description": "Qualitative detection of circulating allergen-specific Immunoglobulin E (IgE ) in human serum.",
       "image": "/allargent-kit.png",
-      "category": 4,
+      "category": 3,
       "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [
@@ -2324,7 +2324,7 @@
       "caption": "A rapid test for the detection of COVID-19 antigens in nasal specimens.",
       "description": "The Flowflex® COVID-19 Antigen Home Test is all you need to determine your family’s Covid-19 status, whether symptoms are present or not. Can be used on children as young as 2 years old. Get the convenience of Flowflex! A rapid test for the detection of COVID-19 antigens in nasal specimens.",
       "image": "/flowflex-covid-19-test.png",
-      "category": 4,
+      "category": 1,
       "isFeatured": true,
       "bullet_points_title": "Features",
       "bullet_points": [

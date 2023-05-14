@@ -34,7 +34,7 @@ const HomePageProductCategories = () => {
 
       {/* button */}
       <div className="w-full flex justify-center items-center">
-        <Link href="#">
+        <Link href={`/products/category/${item.id}`}>
           <div className=" flex justify-center items-center w-[150px] h-[50px] border-2 border-teal-300 m-4 hover:bg-teal-300 hover:text-white">
             View Products
           </div>
