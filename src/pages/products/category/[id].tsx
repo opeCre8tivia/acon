@@ -17,7 +17,7 @@ const ProductsByCategory = (props: Props) => {
   useEffect(() => {
     if (id) {
       let _id = id as string;
-      const _category = categories.find((cat) => cat.id === parseInt(_id));
+      const _category = categories.find((cat: any) => cat.id === parseInt(_id));
 
       _category && setCategory(_category);
     }
@@ -26,7 +26,7 @@ const ProductsByCategory = (props: Props) => {
   useEffect(() => {
     if (products && category) {
       const _catProducts = products.filter(
-        (product) => product.category === category.id
+        (product: any) => product.category === category.id
       );
 
       console.log(_catProducts, "-----> list of products");
@@ -50,7 +50,7 @@ const ProductsByCategory = (props: Props) => {
 
       {/* product list */}
 
-      <div id="featured" className="w-full h-fit sm:grid grid-cols-4 gap-2">
+      <div id="" className="w-full h-fit sm:grid grid-cols-4 gap-2">
         {categoryProducts &&
           categoryProducts.map((product, index: number) => {
             return product && <ProductCard item={product} key={index} />;
