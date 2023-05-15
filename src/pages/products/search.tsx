@@ -123,8 +123,9 @@ const Search = (props: Props) => {
             {searchResults.length > 0 && (
               <div className="w-[100vw] h-full p-2  overflow-y-scroll bg-[rgba(0,0,0,0.5)] fixed left-0 top-[45vh] z-5 flex justify-center ">
                 <div className="w-full h-fit sm:w-[50%] bg-gray-100">
-                  {searchResults.map((product) => (
+                  {searchResults.map((product, index) => (
                     <div
+                      key={index}
                       className="w-full h-[40px] bg-white flex items-center my-2 rounded  "
                       onClick={() => {
                         setSelectedCategory(product.category);
@@ -164,7 +165,7 @@ const Search = (props: Props) => {
                 categoryList.map((category, index) => {
                   return (
                     <option key={index} value={category.id}>
-                      {category.name}{" "}
+                      {category.name}
                     </option>
                   );
                 })}
