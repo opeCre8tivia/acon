@@ -15,6 +15,8 @@ const Search = (props: Props) => {
   const [categoryList, setCategoryList] = useState<Category[] | null>(null);
   const [productList, setProductList] = useState<Product[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<number | null>(null);
+  const [searchText, setSearchText] = useState<string>("");
+  const [searchResults, setSearchResults] = useState<Product[]>([]);
 
   const pathname = useRouter().pathname;
 
@@ -41,6 +43,23 @@ const Search = (props: Props) => {
     }
   }, [selectedCategory]);
 
+  /**
+   * search names of products by searchText value
+   */
+
+  useEffect(() => {
+    if (searchText.length > 0) {
+      let filteredProducts = products.filter((product) =>
+        product.name.toLowerCase().includes(searchText.toLowerCase())
+      );
+      filteredProducts && setSearchResults(filteredProducts);
+    }
+
+    if (searchText.length === 0) {
+      setSearchResults([]);
+    }
+  }, [searchText]);
+
   return (
     <div>
       {/* head */}
@@ -64,7 +83,7 @@ const Search = (props: Props) => {
 
       <section>
         <div className="w-full h-[100px] flex justify-center items-center gap-2">
-          <div>
+          <div className="">
             <form>
               <label
                 htmlFor="search"
@@ -95,15 +114,39 @@ const Search = (props: Props) => {
                   id="search"
                   className="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                   placeholder="Search"
+                  onChange={(e) => setSearchText(e.target.value)}
                 />
-                <button
-                  type="submit"
-                  className="text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                >
-                  Search
-                </button>
               </div>
             </form>
+
+            {/* search results */}
+            {searchResults.length > 0 && (
+              <div className="w-[100vw] h-full p-2  overflow-y-scroll bg-[rgba(0,0,0,0.5)] fixed left-0 top-[45vh] z-5 flex justify-center ">
+                <div className="w-full h-fit sm:w-[50%] bg-gray-100">
+                  {searchResults.map((product) => (
+                    <div
+                      className="w-full h-[40px] bg-white flex items-center my-2 rounded  "
+                      onClick={() => {
+                        setSelectedCategory(product.category);
+                        setSearchText("");
+                      }}
+                    >
+                      <div className="w-[40px] h-[40px] flex justify-center items-center overflow-hidden mx-4">
+                        <Image
+                          alt="acon product"
+                          src={product.image}
+                          width={40}
+                          height={40}
+                          style={{ objectFit: "contain" }}
+                        />
+                      </div>
+
+                      <div className=" whitespace-nowrap">{product.name}</div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           {/* select input */}

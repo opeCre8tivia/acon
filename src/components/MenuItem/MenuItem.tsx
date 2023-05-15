@@ -9,7 +9,7 @@ type Props = {
 const MenuItem = ({ item }: Props) => {
   return (
     <Link href={item.href}>
-      <div className="ml-8 text-gray-100 text-[10px] font-500 hover:text-blue-900">
+      <div className="ml-8 text-gray-100 text-[20px] font-500 hover:text-blue-900">
         {item.name}
       </div>
     </Link>

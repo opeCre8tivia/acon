@@ -13,6 +13,7 @@ export interface Product {
   bullet_points_title: string;
   bullet_points: string[];
   tableRows?: Row[];
+  category: number;
 }
 
 export interface Category {
