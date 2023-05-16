@@ -28,7 +28,7 @@ const About = (props: Props) => {
             provide a broad range of high quality and competitively priced
             medical diagnostic and healthcare products. We constantly expand our
             product line with a devotion to helping improve the health and
-            well-being of client's patients
+            well-being of patients
           </p>
         </div>
       </div>

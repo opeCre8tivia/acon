@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import ScrollIntoView from "react-scroll-into-view";
 
@@ -38,16 +39,16 @@ const Footer = (props: Props) => {
             </ScrollIntoView>
           </li>
           <li>
-            <a href="#contact" className="mr-4 hover:underline md:mr-6">
+            <Link href="#contact" className="mr-4 hover:underline md:mr-6">
               Contact
-            </a>
+            </Link>
           </li>
         </ul>
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
           © 2023{" "}
-          <a href="#" className="hover:underline">
+          <Link href="#" className="hover:underline">
             Acon diagnostics™
-          </a>
+          </Link>
           . All Rights Reserved.
         </span>
       </div>
