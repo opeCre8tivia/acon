@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Acon Diagnostics | Uganda</title>
+        <title>Acon Diagnostics </title>
         <meta
           name="description"
           content="Acon Diagnostics is aleading supplier of medical products and equipments"

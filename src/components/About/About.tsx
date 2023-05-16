@@ -23,12 +23,12 @@ const About = (props: Props) => {
 
         {/* text */}
         <div className="w-full bg-white sm:bg-transparent sm:w-[50%] h-full p-4 ">
-          <p className="text-gray-500 text-[12px] text-justify sm:text-gray-300">
+          <p className="text-gray-500 text-[30px] font-thin text-justify sm:text-gray-100">
             We are one of the leading suppliers of medical equipment, who
             provide a broad range of high quality and competitively priced
             medical diagnostic and healthcare products. We constantly expand our
             product line with a devotion to helping improve the health and
-            well-being of clients patients
+            well-being of client's patients
           </p>
         </div>
       </div>

@@ -1,10 +1,14 @@
 import React, { FormEvent, useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 type Props = {};
 
 const Contact = (props: Props) => {
   const form: any = useRef();
+
+  const notify = () => toast("Email sent successfully");
 
   const sendEmail = (e: any) => {
     e.preventDefault();
@@ -20,6 +24,8 @@ const Contact = (props: Props) => {
         (result) => {
           console.log(result.text);
           console.log("email sent");
+          notify();
+          form.current.reset();
         },
         (error) => {
           console.log(error.text);
@@ -28,16 +34,29 @@ const Contact = (props: Props) => {
   };
 
   return (
-    <section>
+    <section id="contact">
       <div
         id="contact"
         className="w-full h-fit  flex justify-center items-start flex-wrap bg-blue-950"
       >
         {/* large text */}
-        <div className=" w-full h-full  sm:min-h-[400px]  flex justify-center items-center sm:w-[50%] py-10 sm:py-2 ">
+        <div className=" w-full h-full  sm:min-h-[400px]  flex flex-col justify-center items-center sm:w-[50%] py-10 sm:py-2 ">
           <h1 className="text-[30px] text-gray-300 font-extrabold w-[80%] text-center">
             We would love to hear from you
           </h1>
+          <p className="text-white">Send us a message via the web form</p>
+
+          <p className=" font-bold text-lg text-white mt-10 underline">
+            Reach us on
+          </p>
+          <ul>
+            <li className="text-white">Mobile: +256 751914314</li>
+            <li className="text-white">Email: info@acondiag.com</li>
+          </ul>
+          {/* <p className=" font-bold text-lg text-white mt-5 underline">
+            Location
+          </p> */}
+          <div></div>
         </div>
 
         {/* text */}
@@ -73,6 +92,7 @@ const Contact = (props: Props) => {
             </button>
           </form>
         </div>
+        <ToastContainer theme="dark" />
       </div>
     </section>
   );

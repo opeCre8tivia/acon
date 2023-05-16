@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import MenuItem from "../MenuItem/MenuItem";
 import { FaHome } from "react-icons/fa";
 import { IconType } from "react-icons/lib";
@@ -48,15 +49,17 @@ const NavBar = () => {
     <nav>
       <div className="w-full h-[80px] flex justify-between items-center p-4 bg-teal-500">
         {/* logo */}
-        <div className="w-[100px] h-[80px] flex justify-center items-center">
-          <Image
-            src={"/logo.svg"}
-            width={200}
-            height={200}
-            alt="Opel Emanuel's logo"
-            style={{ objectFit: "cover" }}
-          />
-        </div>
+        <Link href="/">
+          <div className="w-[100px] h-[80px] flex justify-center items-center">
+            <Image
+              src={"/logo.svg"}
+              width={200}
+              height={200}
+              alt="Opel Emanuel's logo"
+              style={{ objectFit: "cover" }}
+            />
+          </div>
+        </Link>
 
         {/* md screen menu */}
         <div className="hidden w-fit md:flex justify-between items-center">

@@ -2,12 +2,11 @@ import Head from "next/head";
 import React, { useState, useEffect } from "react";
 import { categories, products } from "../../utils/products.json";
 import Image from "next/image";
-import SectionTitle from "@/components/SectionTitle/SectionTitle";
 import { Category, Product } from "@/types/types.ds";
 import { useRouter } from "next/router";
 import NavBar from "@/components/NavBar/NavBar";
-import Footer from "@/components/Footer/Footer";
 import ProductCard from "@/components/ProductCard/ProductCard";
+import OtherFooter from "@/components/OtherFooter/OtherFooter";
 
 type Props = {};
 
@@ -64,9 +63,30 @@ const Search = (props: Props) => {
     <div>
       {/* head */}
       <Head>
-        <meta name="description" content="" />
-        <title>Products</title>
+        <title>Products </title>
+        <meta
+          name="description"
+          content="Acon Diagnostics is aleading supplier of medical products and equipments"
+        />
         <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
       </Head>
 
       {/* header */}
@@ -186,7 +206,7 @@ const Search = (props: Props) => {
         </div>
       </section>
 
-      <Footer />
+      <OtherFooter />
     </div>
   );
 };

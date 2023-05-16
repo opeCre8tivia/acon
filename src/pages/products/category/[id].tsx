@@ -4,6 +4,8 @@ import React, { useEffect, useState } from "react";
 import { categories, products } from "../../../utils/products.json";
 import Image from "next/image";
 import ProductCard from "@/components/ProductCard/ProductCard";
+import OtherFooter from "@/components/OtherFooter/OtherFooter";
+import NavBar from "@/components/NavBar/NavBar";
 
 type Props = {};
 
@@ -29,13 +31,15 @@ const ProductsByCategory = (props: Props) => {
         (product: any) => product.category === category.id
       );
 
-      console.log(_catProducts, "-----> list of products");
       _catProducts && setCategoryProducts(_catProducts);
     }
   }, [category, products]);
 
   return (
     <div className="w-full, h-full">
+      <nav>
+        <NavBar />
+      </nav>
       {/* category header */}
       <div className="w-full h-[100px] flex justify-center items-center bg-teal-300">
         {category && (
@@ -56,6 +60,9 @@ const ProductsByCategory = (props: Props) => {
             return product && <ProductCard item={product} key={index} />;
           })}
       </div>
+
+      {/* footer  */}
+      <OtherFooter />
     </div>
   );
 };

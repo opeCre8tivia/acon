@@ -3,12 +3,12 @@ import ScrollIntoView from "react-scroll-into-view";
 
 type Props = {};
 
-const Footer = (props: Props) => {
+const OtherFooter = (props: Props) => {
   return (
     <footer className="p-4 md:p-8 lg:p-10 bg-gray-100 dark:bg-gray-100">
       <div className="mx-auto max-w-screen-xl text-center">
         <a
-          href="#"
+          href="/"
           className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white"
         >
           <img
@@ -23,22 +23,22 @@ const Footer = (props: Props) => {
         </p>
         <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
           <li>
-            <ScrollIntoView selector="#about">
+            <a href="/#about">
               <div className="mx-5 hover:underline">About</div>
-            </ScrollIntoView>
+            </a>
           </li>
           <li>
-            <ScrollIntoView selector="#featured" alignToTop={true}>
+            <a href="/products/search">
               <div className="mx-5 hover:underline">Products</div>
-            </ScrollIntoView>
+            </a>
           </li>
           <li>
-            <ScrollIntoView selector="#categories" alignToTop={true}>
+            <a href="/#categories">
               <div className="mx-5 hover:underline">Product Line</div>
-            </ScrollIntoView>
+            </a>
           </li>
           <li>
-            <a href="#contact" className="mr-4 hover:underline md:mr-6">
+            <a href="/#contact" className="mr-4 hover:underline md:mr-6">
               Contact
             </a>
           </li>
@@ -55,4 +55,4 @@ const Footer = (props: Props) => {
   );
 };
 
-export default Footer;
+export default OtherFooter;

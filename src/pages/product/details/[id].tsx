@@ -5,6 +5,7 @@ import { products } from "../../../utils/products.json";
 import Image from "next/image";
 import { FaCheckCircle } from "react-icons/fa";
 import NavBar from "@/components/NavBar/NavBar";
+import OtherFooter from "@/components/OtherFooter/OtherFooter";
 
 type Props = {};
 
@@ -106,6 +107,8 @@ const Details = (props: Props) => {
           )}
         </div>
       </div>
+
+      <OtherFooter />
     </>
   );
 };
