@@ -14,10 +14,11 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Script
+        id="gi-script"
         strategy="lazyOnload"
         src="https://www.googletagmanager.com/gtag/js?id=G-145ERMPY4W"
-      ></Script>
-      <Script strategy="lazyOnload">
+      />
+      <Script id="go-script" strategy="lazyOnload">
         {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
