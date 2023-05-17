@@ -39,7 +39,7 @@ const NavBar = () => {
     },
     {
       name: "Contact",
-      href: "#",
+      href: "/#contact",
       Icon: MdForwardToInbox,
       section: null,
     },
