@@ -1,5 +1,6 @@
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
+import Script from "next/script";
 
 import { Lato } from "next/font/google";
 
@@ -11,8 +12,23 @@ const lato = Lato({
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <main className={lato.className}>
-      <Component {...pageProps} />
-    </main>
+    <>
+      <Script
+        strategy="lazyOnload"
+        src="https://www.googletagmanager.com/gtag/js?id=G-145ERMPY4W"
+      ></Script>
+      <Script strategy="lazyOnload">
+        {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config','G-145ERMPY4W',{page_path:window.location.pathname});
+        `}
+      </Script>
+
+      <main className={lato.className}>
+        <Component {...pageProps} />
+      </main>
+    </>
   );
 }
