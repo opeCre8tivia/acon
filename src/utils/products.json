@@ -51,10 +51,10 @@
     },
     {
       "id": 7,
-      "name": "healthyme",
-      "title": "Personal Care tests",
-      "description": "HealthyMe is a newly created product line. Our current product offering includes UTI and fertility tests.The product selection is expected to grow with new personal health tests.",
-      "logo": "/healthme-logo.png"
+      "name": "Cypress",
+      "title": "Clinical laboratory specialist for 27 years",
+      "description": "Our solutions screen and monitor the most common conditions quickly and clearly. We enable doctors to understand and choose appropriate treatments.",
+      "logo": "/cypress-logo.svg"
     }
   ],
   "products": [
@@ -2405,6 +2405,156 @@
         "4 Reminder Alarms",
         "Easy to use",
         "Easy to carry"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Glucose",
+      "caption": "Glucose is the major carbohydrate present in the peripheral blood. The oxidation of glucose is the major source of cellular energy in the body. Glucose determinations are run primarily to aid in the diagnosis and treatment of diabetes mellitus.",
+      "description": "Glucose is the major carbohydrate present in the peripheral blood. The oxidation of glucose is the major source of cellular energy in the body. Glucose determinations are run primarily to aid in the diagnosis and treatment of diabetes mellitus. Elevated glucose levels may be associated with pancreatitis, pituitary or thyroid dysfunction, renal failure and liver disease, whereas low glucose levels may be associated with insulinoma, hypopituitarism, neoplasms, or insulin-induced-hypoglycemia.",
+      "image": "/cypress-glucose.png",
+      "category": 7,
+      "isFeatured": true,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:GOD-POD",
+        "Package:2 x 125 mL",
+        "Product code:HBL04",
+        "CE:CE",
+        "Storage temperature:2 - 8 °C",
+        "Clinical significance:Glucose is the major carbohydrate present in the peripheral blood. The oxidation of glucose is the major source of cellular energy in the body. Glucose determinations are run primarily to aid in the diagnosis and treatment of diabetes mellitus. Elevated glucose levels may be associated with pancreatitis, pituitary or thyroid dysfunction, renal failure and liver disease, whereas low glucose levels may be associated with insulinoma, hypopituitarism, neoplasms, or insulin-induced-hypoglycemia.",
+        "Intended use:The Cypress Diagnostics kit Glucose is an in vitro diagnostic medical device intended to be used for the quantitative measurement of glucose in human fluoride plasma. The device is not automated. The measurement of glucose is intended to be used for screening for and diagnosis of (pre)diabetes, the diagnosis of hypoglycemia and the aid in diagnosis of non-diabetic hyperglycemia. This kit is intended to be used by healthcare professionals in a laboratory-based testing environment."
+      ]
+    },
+    {
+      "id": 42,
+      "name": "RPR carbon 150 t",
+      "caption": "Syphilis is a chronic infection, caused by the spirochaete Treponema pallidum, which progresses through distinct stages of infection: primary, secondary, tertiary and quaternary",
+      "description": "Syphilis is a chronic infection, caused by the spirochaete Treponema pallidum, which progresses through distinct stages of infection: primary, secondary, tertiary and quaternary. These stages produce diverse clinical symptoms, typically producing initial chancres then syphilitic rash followed by long periods of dormancy and may eventually lead to cardiovascular problems and neurosyphilis.",
+      "image": "/rpr-cypress.png",
+      "category": 7,
+      "isFeatured": true,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Flocculation",
+        "Package:150 t",
+        "Product code:22152",
+        "CE:CE",
+        "Storage temperature:2 - 8 °C",
+        "Clinical significance:Syphilis is a chronic infection, caused by the spirochaete Treponema pallidum, which progresses through distinct stages of infection: primary, secondary, tertiary and quaternary. These stages produce diverse clinical symptoms, typically producing initial chancres then syphilitic rash followed by long periods of dormancy and may eventually lead to cardiovascular problems and neurosyphilis. Tests for syphilis fall into four categories: direct microscopic examination; treponemal antibody tests; non-treponemal antibody tests and direct antigen tests. Non-treponemal test are important to follow up antibiotic therapies. If the therapy is efficient, non treponemal titers will significantly decrease. RPR carbon is one such test.",
+        "Intended use:The Cypress Diagnostics RPR Carbon kit is an in vitro diagnostic medical device intended to be used by healthcare professionals for the qualitative/semi-quantitative detection of Luetic reagins (non-treponemal antibodies) in human serum or plasma. The detection of Luetic reagins(non-treponemal antibodies) is intended to be used for the screening for and aid in diagnosis of syphilis and the monitoring of the effectiveness of syphilis therapy."
+      ]
+    },
+    {
+      "id": 43,
+      "name": "CYANVision",
+      "caption": "The CYANVision is a semi-automatic biochemistry analyzer made to excel in clinical performance, user convenience, and robustness.",
+      "description": "This super-compact analyzer uses light-emitting diodes (LED) to achieve unprecedented measurement performance. With guidance and advice, the operating system helps you deliver precise and accurate results.",
+      "image": "/cyan-vision.png",
+      "category": 7,
+      "isFeatured": true,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Biochemistry semi-automate",
+        "Package:unit",
+        "Product code:CY014",
+        "CE:CE",
+        "Clinical significance:Based on our 25-year experience in in-vitro diagnostics, we created the CYANVision to excel in three different areas: clinical performance, user convenience, and robustness. With our new and innovative CYANVision, we set the benchmark for the industry. This super-compact analyzer uses light-emitting diodes (LED) to achieve unprecedented measurement performance. With guidance and advice, the operating system helps you deliver precise and accurate results.",
+        "Intended use:The CYANVision semi-automatic analyzer is an in-vitro diagnostic medical device for professional use only. (Semi-) automatic biochemistry analyzers are widely applied in hospitals and research institutes for the quantitative determination of different biochemical substances and other characteristics in various biological samples. Evaluation of these measured properties of blood and other fluids may be useful in the diagnosis of disease. The type of in vitro diagnostic tests that can be performed on this analyzer includes enzyme levels (such as many of the liver function tests), ion levels (e.g. sodium and potassium), and other tell-tale chemicals (such as glucose, serum albumin, or creatinine). Enzymes may be measured by the rate they change one colored substance to another; in these tests, the results for enzymes are given as an activity, not as a concentration of the enzyme. Other tests use colorimetric changes to determine the concentration of the chemical in question. Turbidity may also be measured. For the best results, we advise using Cypress Diagnostics reagents. The analyzer is delivered with all Cypress Diagnostics biochemistry test methods pre-programmed. These methods have been extensively verified and optimized. In the application sheets, you can find detailed information on the preparation of the samples and the execution of the tests for all Cypress Diagnostics kits. Using these pre-programmed methods and following the preparation instructions correctly, Cypress Diagnostics guarantees the accuracy and precision as stated in the kit’s insert."
+      ]
+    },
+    {
+      "id": 44,
+      "name": "AHG - Anti Human Globulin",
+      "caption": "The CYANVision is a semi-automatic biochemistry analyzer made to excel in clinical performance, user convenience, and robustness.",
+      "description": "This super-compact analyzer uses light-emitting diodes (LED) to achieve unprecedented measurement performance. With guidance and advice, the operating system helps you deliver precise and accurate results.",
+      "image": "/ahg.png",
+      "category": 7,
+      "isFeatured": true,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Tube",
+        "Package:10 Ml",
+        "Product code:405",
+        "CE:_",
+        "Storage temperature:2 - 8 °C",
+        "Intended use:Polyspecific Coombs serum for bloodgrouping serology contains antibodies against immunoglobulines and complement factors. This reagent has been prepared by blending polyclonal anti-IgG (produced by immunisation of rabbits with purified whole human IgG) with monoclonal Anti-C3 (cell line Bric-8) obtained by in vitro culture of an IgM immunoglobulin secreting mouse hybridoma. The form of preparation takes care, that no reaction with uncoated human erythrocytes take place. The reagent has been coloured green and contains also <0.1% (w/v) sodium azide as preservative. Beside the parts active antibody and human serum the reagent contains sodium chloride, macromolecules and bovine albumin. The reagent is intended be used by qualified and technical personnel only. For in vitro use only."
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Creatine Kinase MB",
+      "caption": "The Cypress Diagnostics kit Creatine Kinase MB is an in vitro diagnostic medical device intended to be used for the quantitative measurement of creatine kinase MB in human serum free of hemolysis or heparin plasma.",
+      "description": "The Cypress Diagnostics kit Creatine Kinase MB is an in vitro diagnostic medical device intended to be used for the quantitative measurement of creatine kinase MB in human serum free of hemolysis or heparin plasma. The device is not automated. The measurement of creatine kinase MB is intended to be used to aid to identify acute infarct of myocardium disease or more rarely, skeletal muscle damage, in patient risk population. This kit is intended to be used by healthcare professionals in a laboratory-based testing environment",
+      "image": "/creatine-mb.png",
+      "category": 7,
+      "isFeatured": false,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Immunoinhibition",
+        "Package:60 + 15 mL",
+        "Product code:HBEL05",
+        "CE:CE",
+        "Storage temperature:2 - 8 °C",
+        "Clinical significance:CK-MB is composed of two moieties CK-M (from muscles) and CK-B (from brain). CK-MB is usually present in serum at low concentration; it is increased after an acute infarct or myocardium and later descends at normal levels. Rarely, it can also be increased in skeletal muscle damage.",
+        "Intended use:The Cypress Diagnostics kit Creatine Kinase MB is an in vitro diagnostic medical device intended to be used for the quantitative measurement of creatine kinase MB in human serum free of hemolysis or heparin plasma. The device is not automated. The measurement of creatine kinase MB is intended to be used to aid to identify acute infarct of myocardium disease or more rarely, skeletal muscle damage, in patient risk population. This kit is intended to be used by healthcare professionals in a laboratory-based testing environment"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "hCG - Card",
+      "caption": " The Cypress Diagnostics hCG Card test is a test kit for the detection of hCG in urine, serum or plasma.",
+      "description": "The Cypress Diagnostics hCG Card test is a test kit for the detection of hCG in urine, serum or plasma.",
+      "image": "/hcg-card.png",
+      "category": 7,
+      "isFeatured": false,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Immunochromatographic",
+        "Package:100t",
+        "Product code:132-200/100",
+        "CE:CE",
+        "Storage temperature:4-30 °C",
+        "Clinical significance:During early stages of pregnancy, the fertilized ovum secretes a specific hormone, hCG (Human Chorionic Gonadotropin), which appears in urine, serum or plasma. The Cypress Diagnostics hCG Card test is a test kit for the detection of hCG in urine, serum or plasma.",
+        "Intended use:The Cypress Diagnostics test hCG Card is a rapid immunochromatographic test for the qualitative detection of human chorionic gonadotropin (hCG) in human urine, serum or plasma. This test kit is to be used to obtain a visual qualitative result for early detection of pregnancy."
+      ]
+    },
+    {
+      "id": 47,
+      "name": "2 parameters",
+      "caption": "The Cypress Diagnostics Drug Screen card is a lateral flow, one-step panel immunoassay for the qualitative detection of multiple drug metabolites in human urine at the following cut-off concentrations: MOR: 300ng/mL THC: 50ng/mL ",
+      "description": "The Cypress Diagnostics Drug Screen card is a lateral flow, one-step panel immunoassay for the qualitative detection of multiple drug metabolites in human urine at the following cut-off concentrations: MOR: 300ng/mL THC: 50ng/mL This product is used to obtain a visual, qualitative result and is intended for professional use. The assay should not be used without proper supervision. This assay provides only a preliminary analytical test result. A more specific alternative chemical method must be used in order to obtain a confirmed analytical result. Gas chromatography/mass spectrometry (GC/MS) has been established as the preferred confirmatory method by the National Institute on Drug Abuse (NIDA).",
+      "image": "/two-params.png",
+      "category": 7,
+      "isFeatured": false,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:MOR - THC",
+        "Package:25t",
+        "Product code:DOA-2",
+        "CE:CE",
+        "Storage temperature:4-30 °C",
+        "Clinical significance:Urine based screened tests for drugs of abuse of abuse range from simple immunoassay tests to complex analytical procedures. The speed of immunoassays has made them the most widely accepted method for screening urine for drugs of abuse. Our Drug screen cards are based on the principle of highly specific immunochemical reactions of antibodies which are used for the analysis of specific compounds in biological fluids. The drug screen card is a rapid, visual, competitive panel immunoassay that can be used for the simultaneous, qualitative detection of multiple drug metabolites in human urine.",
+        "Intended use:The Cypress Diagnostics Drug Screen card is a lateral flow, one-step panel immunoassay for the qualitative detection of multiple drug metabolites in human urine at the following cut-off concentrations: MOR: 300ng/mL THC: 50ng/mL This product is used to obtain a visual, qualitative result and is intended for professional use. The assay should not be used without proper supervision. This assay provides only a preliminary analytical test result. A more specific alternative chemical method must be used in order to obtain a confirmed analytical result. Gas chromatography/mass spectrometry (GC/MS) has been established as the preferred confirmatory method by the National Institute on Drug Abuse (NIDA)."
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Iron",
+      "caption": "The Cypress Diagnostics kit Iron is an in vitro diagnostic medical device intended to be used for the quantitative measurement of iron in human serum or heparinized plasma.",
+      "description": "The Cypress Diagnostics kit Iron is an in vitro diagnostic medical device intended to be used for the quantitative measurement of iron in human serum or heparinized plasma.",
+      "image": "/iron.png",
+      "category": 7,
+      "isFeatured": false,
+      "bullet_points_title": "About",
+      "bullet_points": [
+        "Method:Ferrozine",
+        "Package:4 X 50 Ml",
+        "Product code:DOA-2",
+        "CE:CE",
+        "Storage temperature:4-30 °C",
+        "Clinical significance:The Iron content of the human body may be divided into three classes: iron in storage, iron in use and iron in transport. Increases in serum iron levels may indicate increased erythrocyte destruction, decreased erythrocyte formation, increased absorption or defects in storage capacities. Decreases in serum iron levels may indicate Iron deficiency or inability to retrieve storage iron. Iron binding capacity is usually increased in iron deficiency anemia and decreased in hemochromatosis, malignancies, rheumatic fever, Hodgkin's diseases and collagen vascular disease",
+        "Intended use:The Cypress Diagnostics kit Iron is an in vitro diagnostic medical device intended to be used for the quantitative measurement of iron in human serum or heparinized plasma. The device is not automated. The measurement of iron is intended to be used to aid to identify iron-deficiency (anemia), hemochromatosis or liver disorders, in patient risk population. This kit is intended to be used by healthcare professionals in a laboratory-based testing environment."
       ]
     }
   ]
