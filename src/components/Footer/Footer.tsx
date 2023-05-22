@@ -6,11 +6,11 @@ type Props = {};
 
 const Footer = (props: Props) => {
   return (
-    <footer className="p-4 md:p-8 lg:p-10 bg-gray-100 dark:bg-gray-100">
+    <footer className="p-4 md:p-8 lg:p-10 bg-gray-100">
       <div className="mx-auto max-w-screen-xl text-center">
         <a
           href="#"
-          className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white"
+          className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900"
         >
           <img
             src="/logo.svg"
@@ -18,11 +18,11 @@ const Footer = (props: Props) => {
           />
           Acon Diagnostics
         </a>
-        <p className="my-6 text-gray-500 dark:text-gray-400">
+        <p className="my-6 text-gray-500">
           Leading supplier if high quality and competitively priced medical
           diagnostic and healthcare products.
         </p>
-        <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
+        <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900">
           <li>
             <ScrollIntoView selector="#about">
               <div className="mx-5 hover:underline">About</div>
@@ -44,7 +44,7 @@ const Footer = (props: Props) => {
             </Link>
           </li>
         </ul>
-        <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
+        <span className="text-sm text-gray-500 sm:text-center">
           © 2023{" "}
           <Link href="#" className="hover:underline">
             Acon diagnostics™
