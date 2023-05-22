@@ -54,7 +54,14 @@
       "name": "Cypress",
       "title": "Clinical laboratory specialist for 27 years",
       "description": "Our solutions screen and monitor the most common conditions quickly and clearly. We enable doctors to understand and choose appropriate treatments.",
-      "logo": "/cypress-logo.svg"
+      "logo": "/cypress-logo.png"
+    },
+    {
+      "id": 9,
+      "name": "Biobase",
+      "title": " High-tech enterprise focusing on development, production and management of scientific equipment. ",
+      "description": "BIOBASE Group is specialized in products of 8 areas including medical diagnosis, biosafety protection, disinfection and sterilization, water purification system, infant care products, cold chain products, software products, clean room project.",
+      "logo": "/biobase-logo.png"
     }
   ],
   "products": [
@@ -2555,6 +2562,843 @@
         "Storage temperature:4-30 °C",
         "Clinical significance:The Iron content of the human body may be divided into three classes: iron in storage, iron in use and iron in transport. Increases in serum iron levels may indicate increased erythrocyte destruction, decreased erythrocyte formation, increased absorption or defects in storage capacities. Decreases in serum iron levels may indicate Iron deficiency or inability to retrieve storage iron. Iron binding capacity is usually increased in iron deficiency anemia and decreased in hemochromatosis, malignancies, rheumatic fever, Hodgkin's diseases and collagen vascular disease",
         "Intended use:The Cypress Diagnostics kit Iron is an in vitro diagnostic medical device intended to be used for the quantitative measurement of iron in human serum or heparinized plasma. The device is not automated. The measurement of iron is intended to be used to aid to identify iron-deficiency (anemia), hemochromatosis or liver disorders, in patient risk population. This kit is intended to be used by healthcare professionals in a laboratory-based testing environment."
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Glass Bead Sterilizer",
+      "caption": "Glass bead sterilizer is used for small experimental instruments by high temperature glass beads. It takes about 10 seconds to sterilize a small metal or glass wares. Effectively eliminate the bacteria and spores",
+      "description": "GBS300 Series Glass Bead Sterilizer is ideal for the sterilization of surgical instruments(forceps, scissors, needles, etc). When the chamber is filled with the included glass beads, high temperature(up to 300℃) can be used to eliminate the presence of bacteria, spores and other microorganisms. Without using potentially dangerous gases, flames or chemicals, it ensures that the sterilized instruments will be free of pathogens and microbial contaminants.The small footprint saves bench space, the sterilizer is safe to be used even in laminar flow hoods.",
+      "image": "/glass-bead-sterilizer.jpeg",
+      "category": 9,
+      "isFeatured": true,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Digital control, up to 300℃",
+        "Sterilizes forceps, scissors, needles & other small surgical instruments (generally within 10-15s).",
+        " Safe to use: no gases, fumes, open flames or harsh liquids",
+        "Stainless steel inner container, built-in highly precise temperature controller and over-temperature protection.",
+        " Includes one bag of glass beads."
+      ],
+      "tableRows": [
+        {
+          "feature": "Modle",
+          "specifications": "GBS300-L, GBS300-H"
+        },
+        {
+          "feature": "Temperature.Range",
+          "specifications": "100℃~300℃"
+        },
+        {
+          "feature": "Temp. Accuracy",
+          "specifications": "±5℃ "
+        },
+
+        {
+          "feature": "Display. Accuracy",
+          "specifications": "1℃"
+        },
+        {
+          "feature": "Time Range",
+          "specifications": "1min~99h59min/∞"
+        },
+        {
+          "feature": "Heating Time",
+          "specifications": "≤25min(RT. to 300℃)"
+        },
+        {
+          "feature": "Voltage",
+          "specifications": "AC110/220V±10%, 50/60HZ"
+        },
+        {
+          "feature": "Material Of Lid",
+          "specifications": "Stainless steel"
+        },
+        {
+          "feature": "Max Power",
+          "specifications": "120W, 250W"
+        },
+        {
+          "feature": "Chamber Volume(mm)",
+          "specifications": "Φ40*80, Φ40*140"
+        },
+        {
+          "feature": "Glass Beads Capacity(g)",
+          "specifications": "150, 300"
+        },
+        {
+          "feature": "Dimension(W*D*H)mm",
+          "specifications": "176*135*189.5, 176*135*249.5"
+        },
+        {
+          "feature": "Package Size(W*D*H) mm",
+          "specifications": "330*300*300"
+        },
+        {
+          "feature": "Weight(kg)",
+          "specifications": "2.5, 3.3"
+        },
+        {
+          "feature": "Gross Weight(kg)",
+          "specifications": "4, 5"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Automatic Chemiluminescence Immunoassay System",
+      "caption": "The chemiluminescence immunoassay system uses magnetic particle separation technology, which uses magnetic particles as antibody carriers, which can be evenly distributed in the liquid phase reaction system, with faster reaction speed and higher efficiency",
+      "description": "The chemiluminescence immunoassay system uses magnetic particle separation technology, which uses magnetic particles as antibody carriers, which can be evenly distributed in the liquid phase reaction system, with faster reaction speed and higher efficiency. Using enzymatic chemiluminescence method, the light signal is more stable. A new generation of enzymatic substrates, with higher sensitivity and faster luminescence. Compared with the international brands, the chemiluminescence immunoassay reagents have good consistency, the coincidence rate can reach more than 95% Quantity:",
+      "image": "/chemiluminescence-immunoassay.jpeg",
+      "category": 9,
+      "isFeatured": true,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Sample Tray：Disc design, up to 60 samples loading capacity per batch The position of sample, standard product and quality control positions can be edited Support emergency function.",
+        "Reagent Tray： Patented semiconductor refrigeration technology Up to 30 reagent position on board with refrigeration at 2-8℃ Up to 30 items can be tested at the same time.",
+        "Washing and mixing module: Three-level cleaning mode, higher cleaning efficiency; Non-contact mixing to avoid cross-contamination.",
+        "Sample Probe: Excellent rinsing system make carry-over ≤10-5 Liquid-level and blood coagulation detection system Intelligent anti-collision function Sampling volume: 15ul-100ul",
+        "RV Loading Module:Independent reaction vesselUp to 1200 pcs per batch with continues loadingAutomatically supply reaction vesselIntelligently detect the amount of RV",
+        "Incubation plate:50 incubation positions Constant 37°C incubation",
+        "Flexible sample test mode: STAT function, automatic dilution, reset function, continuous loading",
+        "Reagent management: the remaining amount, calibration validity, expiry date management",
+        "Consumables management: continuous monitoring and low-level warning",
+        "Result management: store search, print and statistics, automatic unit conversion function",
+        "LIS/HIS connection",
+        "Auto daily maintenance"
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "BKI1100"
+        },
+        {
+          "feature": "Throughput",
+          "specifications": "80T/H"
+        },
+        {
+          "feature": "Principle",
+          "specifications": "Magnetic particle enzymatic chemiluminescence "
+        },
+
+        {
+          "feature": "Modes of Operation",
+          "specifications": "Random, Batch and STAT"
+        },
+        {
+          "feature": "Separation method",
+          "specifications": "Magnetic separation technology"
+        },
+        {
+          "feature": "Sample Positions",
+          "specifications": "60 (Each position could be used as an emergency position)"
+        },
+        {
+          "feature": "Reagent Positions",
+          "specifications": "30 pcs (2-8℃ refrigeration)"
+        },
+        {
+          "feature": "Incubation Positions",
+          "specifications": "50"
+        },
+        {
+          "feature": "Time to 1st Result",
+          "specifications": "18 Minutes"
+        },
+        {
+          "feature": "Sample Volume",
+          "specifications": "15-100μl"
+        },
+        {
+          "feature": "Detection Precision",
+          "specifications": "CV≤5% "
+        },
+
+        {
+          "feature": "Carry-over Rate",
+          "specifications": "≤10-5"
+        },
+        {
+          "feature": "Correlation Coefficient",
+          "specifications": "r≥0.99"
+        },
+        {
+          "feature": "Calibration Stability",
+          "specifications": "28 Days"
+        },
+        {
+          "feature": "Calibration Type",
+          "specifications": "6/7-point calibration"
+        },
+        {
+          "feature": "Software system",
+          "specifications": "Windows 7/8/10, 32 or 64 bit, Bi-direction, support HL7 protocol, Intuitive User Interface, Intelligent Data Management"
+        },
+        {
+          "feature": "Interface",
+          "specifications": "TCP/IP Network interface"
+        },
+        {
+          "feature": "Other Function",
+          "specifications": "Liquid level detection, Anti-collision function, Sample barcode scanning, Reagent radio frequency identification, Intelligent alarm prompt"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "AC110/220V，50/60Hz"
+        },
+        {
+          "feature": "External Size (W*D*H)",
+          "specifications": "1120*735*513mm"
+        },
+        {
+          "feature": "Net Weight",
+          "specifications": "130Kg"
+        },
+        {
+          "feature": "Package Size (WD*H)",
+          "specifications": "1303*873*854mm"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": "180Kg"
+        },
+        {
+          "feature": "Thyroid",
+          "specifications": "TSH;TT4;TT3;FT4;FT3;TgAb;TPOAb;TG;Anti-TSHR; CT"
+        },
+        {
+          "feature": "Anemia",
+          "specifications": "FERRITIN;VB12;FA"
+        },
+        {
+          "feature": "Liver Fibrosis",
+          "specifications": "CIV;LN;HA;PIIINP"
+        },
+        {
+          "feature": "Hypertension",
+          "specifications": "ALD;ACTH;Cortisol; Renin"
+        },
+
+        {
+          "feature": "Fertility",
+          "specifications": "β-HCG;E2;P;T;PRL;FSH; LH;DHEA-S;SHBG;AMH"
+        },
+        {
+          "feature": "Growth",
+          "specifications": "GH"
+        },
+        {
+          "feature": "Bone Metabolism",
+          "specifications": "BGP; 25-OH-Vit-D; iPTH;BGP"
+        },
+        {
+          "feature": "Tumor Maker",
+          "specifications": "CA125;CA15-3;CA199;AFP;CEA; t-PSA; f-PSA"
+        },
+        {
+          "feature": "Pepsinogen",
+          "specifications": "PGI;PGII"
+        },
+        {
+          "feature": "Kidney Function",
+          "specifications": "β2-MG"
+        },
+        {
+          "feature": "Rheumatism",
+          "specifications": "Anti-CCp"
+        },
+
+        {
+          "feature": "Diabetes",
+          "specifications": "C-P;INS"
+        },
+        {
+          "feature": "ardiac Marker",
+          "specifications": "cTnl; CK-MB;MYO; NT-proBNP"
+        },
+        {
+          "feature": "Inflammation",
+          "specifications": "PCT;IL-β"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Table Top Autoclave Class N Series",
+      "caption": "Application to all wrapped or non-wrapped, solid, hollow load products type A and porous products or related articles.",
+      "description": "Autoclaves are equipment for sterilizing widely used in microbiology, medicine, podiatry, tattooing, body piercing, veterinary science, mycology, dentistry, and prosthetics fabrication. They vary in size and function depending on the media to be sterilized.This sterilizer can be used for dental clinic, laboratory, surgical room, emergency room, ophthalmology, gynecology and steam, cosmetic hospital and so on, by doctors and professionals.",
+      "image": "/table-top-autoclave.jpeg",
+      "category": 9,
+      "isFeatured": true,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Adopting European N standard, thermodynamic gravity guarantees elimination of cold air from the cavity and makes sure that reaches the optimal effect of sterilization.",
+        "Specially design for dental clinic field, simply and efficiently.",
+        "Microprocessor control, LED display and modularized panel for easy operation.",
+        "Automatic malfunction detection system makes easy maintaining."
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "BKM-Z12N, BKM-Z18N, BKM-Z24N"
+        },
+        {
+          "feature": "Capacity",
+          "specifications": "12L, 18L, 24L"
+        },
+        {
+          "feature": "Chamber Size(mm)",
+          "specifications": "φ200*360, φ245*350, φ245*450"
+        },
+
+        {
+          "feature": "Sterillization Class",
+          "specifications": "Class N(according to EN 13060 standard)"
+        },
+        {
+          "feature": "Sterilization Temp.",
+          "specifications": "121℃,134℃"
+        },
+        {
+          "feature": "Drying Procedure",
+          "specifications": "Heat Drying"
+        },
+        {
+          "feature": "Display",
+          "specifications": "LED display"
+        },
+        {
+          "feature": "Control Precision",
+          "specifications": "Temperature:1℃, Pressure:0.1bar"
+        },
+        {
+          "feature": "Safety System",
+          "specifications": "Hand lock door, Relief valve in case of over pressure, Pressure or temperature over load protection, Alarm for system failure, finish reminding"
+        },
+        {
+          "feature": "Tray Holder",
+          "specifications": "3 pcs ss trays on SS shelf"
+        },
+        {
+          "feature": "Chamber",
+          "specifications": "SUS304, Max working pressure: 2.3bar, Min working pressure: 1.1bar, Max temperature:145℃"
+        },
+
+        {
+          "feature": "Ambient Temp.",
+          "specifications": "5~40℃"
+        },
+        {
+          "feature": "Noise",
+          "specifications": "<50dB"
+        },
+        {
+          "feature": "Power",
+          "specifications": "1600W for 220V,1200W for 110V"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "Standard:220V±10%,50/60Hz;Optional:110V±10%,50/B0Hz.Wiring Method: Plug"
+        },
+        {
+          "feature": "External Size(WD*H)mm",
+          "specifications": "560*450*400, 560*450*400,670\" 450*400"
+        },
+        {
+          "feature": "Package Size(WD-H)mm",
+          "specifications": "650*515*470, 650*515*470, 760°515*470"
+        },
+        {
+          "feature": "Gross Weight(kg)",
+          "specifications": "38, 40.5, 45.5"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Elisa Microplate Washer BK-9622",
+      "caption": "The microplate washer is a medical device specially used for cleaning the microplate, and it is generally used in conjunction with the microplate reader.",
+      "description": "The microplate washer is a medical device specially used for cleaning the microplate, and it is generally used in conjunction with the microplate reader. It is mainly used to clean some residues after the detection of the ELISA plate, thereby reducing the error caused by residues in the subsequent detection process. It has been widely used in the cleaning of enzyme-labeled plates in hospitals, blood stations, sanitation and epidemic prevention stations, reagent factories, and research laboratories.",
+      "image": "/elisa-bk-9622.jpeg",
+      "category": 9,
+      "isFeatured": true,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Microcomputer control, automatically complete the plate washing operation.",
+        "The liquid level sensing function automatically detects the liquid level, and automatically alarms when the cleaning liquid is insufficient and the waste liquid is overflowing.",
+        "The user-friendly operating system allows users to customize the plate type, set the number of washes, the amount of wash solution, the way to wash the plate, the suction point, the soaking and shaking time and other parameters.",
+        "The wash head is self-balancing, has two-point aspiration, and performs bottom flushing.",
+        "2 kinds of Automatic washing,Soaking and Shaking, to reduce the interference adsorption during the reaction;  time adjustable."
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": " BK-9622, BK-9613"
+        },
+        {
+          "feature": "Cleaning Head",
+          "specifications": "8 channels and 12 channels, 96 pins, single row controllable"
+        },
+        {
+          "feature": "Microplate Types",
+          "specifications": "Four kinds, flat bottom, U bottom, V bottom, round bottom"
+        },
+
+        {
+          "feature": "Average Residue",
+          "specifications": "<1μl(per hole), <0.7μl(per hole)"
+        },
+        {
+          "feature": "Liquid Suction Time",
+          "specifications": "0.1~999.9 seconds adjustable, with an interval of 0.1 seconds"
+        },
+        {
+          "feature": "Line Flush Time",
+          "specifications": "0~240 seconds, adjustable"
+        },
+        {
+          "feature": "Washing Programs",
+          "specifications": "Up to 200 programs"
+        },
+        {
+          "feature": "Display",
+          "specifications": "7-inch touch display"
+        },
+        {
+          "feature": "Liquid Injection Channels",
+          "specifications": "3 (2 types of lotion and 1 type of distilled water)"
+        },
+        {
+          "feature": "Cleaning Needle Position",
+          "specifications": "6 types (horizontal, left, middle, right, bottom, hole spacing)"
+        },
+        {
+          "feature": "Consumption",
+          "specifications": "80W, 350W"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "AC220V±10%, 50/60Hz; 110±10%, 60Hz"
+        },
+        {
+          "feature": "Packing size(W*D*H):",
+          "specifications": "690*490*400mm, 740*675*562mm"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": "22kg, 42kg"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Semi-auto Chemistry Analyzer",
+      "caption": "BIOBASE SILVER semi-automatic biochemistry analyzer is a microcomputer-based in-vitro diagnostics instrument uniting optics, mechanics, and automation control in one",
+      "description": "BIOBASE SILVER semi-automatic biochemistry analyzer is a microcomputer-based in-vitro diagnostics instrument uniting optics, mechanics, and automation control in one. It is used together with the related reagents for the quantitative determination of biochemical items, widely applied to various hospitals and research institutes， with the characteristics of high precision, excellent repeatability, and complete function.",
+      "image": "/semi-auto-chem-analyzer.jpeg",
+      "category": 9,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Easy operation by one button.",
+        "End point, kinetic, fixed time, rate, etc.",
+        "Filter wavelength: 340/405/450/510/546/578/630nm, 2 more open filter positions, others on request.",
+        "With 20 incubating positions.",
+        "Large Memory to store 144 test programs and 5600 testing results.",
+        "Excellent Q.C function, Q.C chart can be stored, displayed and printed.",
+        "37℃ temperature in flow cell and incubating.",
+        "Real time graph can be displayed and printed."
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "BIOBASE-Silver"
+        },
+        {
+          "feature": "Reading cuvette",
+          "specifications": "Quartz cuvette; Both through cell and direct reading cuvette"
+        },
+        {
+          "feature": "Incubating positions",
+          "specifications": "20 incubating positions"
+        },
+        {
+          "feature": "Photometric System",
+          "specifications": "Light source: 6V, 10W long life halogen lamp, Filters: 340/405/450/510/546/578/630nm, 2 more open filter positions, Wavelength accuracy: ±2nm"
+        },
+        {
+          "feature": "Measuring System",
+          "specifications": "Photometric accuracy: ±2% from 0 to 2.500 O.D., Drift<0.005 O.D."
+        },
+        {
+          "feature": "Incubator Temperature",
+          "specifications": "R.T. 25℃, 30℃, 37℃"
+        },
+        {
+          "feature": "Control",
+          "specifications": "Precision: ±0.1℃"
+        },
+        {
+          "feature": "Display",
+          "specifications": "Touch Screen"
+        },
+        {
+          "feature": "Printer",
+          "specifications": "Built-in thermal printer"
+        },
+        {
+          "feature": "Interface",
+          "specifications": "RS-232, USB"
+        },
+        {
+          "feature": "External Size(W*D*H)",
+          "specifications": "400*380*200mm"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "AC110/220V±10%, 60/50Hz"
+        },
+        {
+          "feature": "Packing Size(W*D*H):",
+          "specifications": "500*530*350mm"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": "12kg"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Classic Thermal Cycler BK-AI/BK-AII ",
+      "caption": "Classic Thermal Cycler BK-AI/BK-AII ; Height of Heated lid. Steplessly Adjustable lid, accommodatesall kinds of PCR tubes, strips and plates ; Open method.",
+      "description": "Classic Thermal Cycler BK-AI/BK-AII ; Height of Heated lid. Steplessly Adjustable lid, accommodatesall kinds of PCR tubes, strips and plates ; Open method.",
+      "image": "/classic-thermal-cycler.jpeg",
+      "category": 9,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "7\"colorfull touch screen, graphicallydisplay.",
+        " Effortlessly interchangeable modules, swapped in seconds without tools.",
+        "10,000 protocols storable on board.",
+        "Durable premium peltier element, ensure long life and high quality.",
+        "Update software through USB flash drive.",
+        "Outstanding uniformity, producing best PCR result.",
+        "Global universal switch power(85V-265V), increasing safety & reliability."
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "BK-AI, BK-AII"
+        },
+        {
+          "feature": "Type",
+          "specifications": "Standard Thermal Cycler, Gradient Thermal Cylcer"
+        },
+        {
+          "feature": "StandardModule",
+          "specifications": "96 Module: 96 wells*0.2ml or 9677Module: 96 wells*0.2ml+77 wells*0.5ml"
+        },
+        {
+          "feature": "Optional Module",
+          "specifications": "48Module:48wells* 0.2ml+48wells*0.5ml,384 Module: 384 wells, Multi-purpose Module: 9677 Module+In-situ Adapter"
+        },
+        {
+          "feature": "Heating And Cooling Technology",
+          "specifications": "Newest generation Peltier-based technology, with long life up to 1,000,000 cycles"
+        },
+        {
+          "feature": "Display",
+          "specifications": "7°Color Touch Screen, graphical display of protocols and running status"
+        },
+        {
+          "feature": "Language",
+          "specifications": "English"
+        },
+        {
+          "feature": "USB Flash Drive",
+          "specifications": "Unlimited storage of protocols with USB flash drive"
+        },
+        {
+          "feature": "Communications Ports",
+          "specifications": "2USB 2.0 and LAN"
+        },
+        {
+          "feature": "Block Temperature Range",
+          "specifications": "0℃~100℃"
+        },
+        {
+          "feature": "Max. Heating Rate",
+          "specifications": "5℃/s"
+        },
+        {
+          "feature": "Max. Cooling Rate",
+          "specifications": "4℃/"
+        },
+        {
+          "feature": "Temperature Uniformity",
+          "specifications": "≤ ±0.2℃（at 95℃）"
+        },
+        {
+          "feature": "Temperature Accuracy",
+          "specifications": "≤ ±0.2℃（35℃-100℃"
+        },
+        {
+          "feature": "Mode Of Temperature Control",
+          "specifications": "Sim-tube & Block mode"
+        },
+        {
+          "feature": "Ramping Rate Adjustable",
+          "specifications": "Yes"
+        },
+        {
+          "feature": "Gradient Accuracy",
+          "specifications": "≤ ±0.3℃（35℃~100℃）"
+        },
+        {
+          "feature": "Column Uniformity",
+          "specifications": "≤ ±0.3℃ (at 95℃)"
+        },
+        {
+          "feature": "Gradient Range",
+          "specifications": "35℃~99.9℃"
+        },
+        {
+          "feature": "Temp. Differential Range",
+          "specifications": "1℃~30℃"
+        },
+        {
+          "feature": "Gradient Capability",
+          "specifications": "12 Column"
+        },
+        {
+          "feature": "Height of Heated lid",
+          "specifications": "Steplessly Adjustable lid, accommodatesall kinds of PCR tubes, strips and plates"
+        },
+        {
+          "feature": "Open method",
+          "specifications": "Innovative TOP-OPEN technology realizesopen and lift the lid in one step"
+        },
+        {
+          "feature": "Heated Lid Temperature Range",
+          "specifications": "30℃~99.9℃"
+        },
+        {
+          "feature": "Auto Shut-off",
+          "specifications": "Yes"
+        },
+        {
+          "feature": "Max. Number of Programs",
+          "specifications": "Max.10,000 programs onboard, unlimited storage of protocols with USB flash drive"
+        },
+        {
+          "feature": "Max.Step &Max.Cycle",
+          "specifications": "30 steps,100 typicalcycles, max60,000nestingcycles"
+        },
+        {
+          "feature": "Time & Temp. Increment/Decrement",
+          "specifications": "Yes, available for long PCR & Touchdown PCR"
+        },
+        {
+          "feature": "Auto Pause/Auto Restart",
+          "specifications": "Yes"
+        },
+        {
+          "feature": "Multi-userlogin",
+          "specifications": "Password-based authentication prevents from view, copy and alteration ofprotocols"
+        },
+        {
+          "feature": "Tm Calculator",
+          "specifications": "Automatically calculates the melting and annealing temperaturethrough inputtwo primer sequences"
+        },
+        {
+          "feature": "Hold At 4℃",
+          "specifications": "Yes, an infinite incubation time at low temperature forovernight working"
+        },
+        {
+          "feature": "Programwizard",
+          "specifications": "Yes, provideobjective andpreciseinformation forwhole running process"
+        },
+        {
+          "feature": "PC Connection",
+          "specifications": "PC remote control to manage more than 100 units of A100/A200 across the network"
+        },
+        {
+          "feature": "Power",
+          "specifications": "Global switch power supply:85V~265V,50-60Hz Max.600W"
+        },
+        {
+          "feature": "Approvals",
+          "specifications": "ISO 9001:2000 ,CE, RoHS"
+        },
+        {
+          "feature": "Packing Size(L*W*H)",
+          "specifications": "430mm*344mm*345mm"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": "9.8kg"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Urine Analyzer UA-200",
+      "caption": "Urinalysis, also known as urine routine, urinalysis is a medical test item performed on urine specimens, and it is one of the most commonly used methods in medical diagnosis. Urinalysis is one of the oldest medical testing methods, which can reflect the severity and progress of kidney and urinary tract diseases",
+      "description": "Urinalysis, also known as urine routine, urinalysis is a medical test item performed on urine specimens, and it is one of the most commonly used methods in medical diagnosis. Urinalysis is one of the oldest medical testing methods, which can reflect the severity and progress of kidney and urinary tract diseases. Nowadays, in most cases, urinalysis test papers are initially used for quick, simple, and cheap urinalysis to determine whether there are red blood cells, white blood cells, proteins, nitrites, glucose, and other substances in the urine.",
+      "image": "/ua-200.jpeg",
+      "category": 9,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Convenient, fast, accurate and simple",
+        "Built-in thermal printer.",
+        "RS232 interface can be connected to other systems such as urine sediment system.",
+        "With fault diagnosis function.",
+        "Traceability, each inspection result is photographed and archived, which is convenient for users to review.The environmental temperature monitoring system reduces the influence of the laboratory environment on the test results.（only for UA-300）"
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "UA-200, UA-300"
+        },
+        {
+          "feature": "Measurement Principle",
+          "specifications": "Albedometry, Artificial Intelligence + Computer Perception Technology"
+        },
+        {
+          "feature": "Test Items",
+          "specifications": "14 items, including GLU, BIL, KET, SG, pH, BLD, PRO, URO, NIT, LEU, VC, CRE, CAL, MAL"
+        },
+        {
+          "feature": "Test Speed",
+          "specifications": "60-120 Tests/hour, 514 Tests/hour"
+        },
+        {
+          "feature": "Display",
+          "specifications": "LCD display, 7 inch touch screen"
+        },
+        {
+          "feature": "Wavelength",
+          "specifications": "525~660nm"
+        },
+        {
+          "feature": "Working Environment",
+          "specifications": "Temperature:15~35℃; Humidity:＜85%."
+        },
+        {
+          "feature": "Interface",
+          "specifications": "RS232 interface can be connected to other systems such as urine sediment system."
+        },
+        {
+          "feature": "Storage",
+          "specifications": "2000 patient,Mass storage. Millions of test results can be stored."
+        },
+        {
+          "feature": "Printer",
+          "specifications": "Built-in thermal printer."
+        },
+        {
+          "feature": "Leakage Proof",
+          "specifications": "Available,avoid cross contamination"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "AC220±10%, 50/60Hz, 110±10%,60Hz, 100~240V±10%, 50/60Hz"
+        },
+        {
+          "feature": "Package Size(W*D*H)",
+          "specifications": " 500*380*250mm, 430*420*380"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": " 4.5kg, 5.5kg"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Horizontal Pulse Vacuum Autoclave",
+      "caption": "The pulse vacuum autoclave extracts vacuum and fills steam into the sterilization room for many times to make the sterilization chamber reach a certain vacuum degree, and then fills saturated steam to reach the set pressure and temperature, so as to achieve the purpose of sterilization of the sterilized substance.",
+      "description": "The pulse vacuum autoclave extracts vacuum and fills steam into the sterilization room for many times to make the sterilization chamber reach a certain vacuum degree, and then fills saturated steam to reach the set pressure and temperature, so as to achieve the purpose of sterilization of the sterilized substance.",
+      "image": "/horizontal-pulse-vacuum-autoclave.jpeg",
+      "category": 9,
+      "isFeatured": false,
+      "bullet_points_title": "Features",
+      "bullet_points": [
+        "Sterilization data output: standard micro printer, no need for separate external connection.",
+        "7-inch color LCD touch screen, which can display information such as temperature, pressure, operating status, fault alarm, cause analysis, and solutions at the same time.",
+        "Strong vacuum drying system, the vacuum degree can be up to-92kpa, after drying, the residual humidity of device doesn't exceed 0.25%, the residual humidity of dressing doesn't exceed 1%.",
+        "The air in the chamber is sterile and avoids re-contamination.",
+        "Adopt quick-release side cover and top cover for easy maintenance and cleaning.",
+        "Micro-controller programmable control technology.",
+        "Full protective door cover, effectively prevent burns.",
+        "The equipment adopt self-expanding sealing ring, sealing performance is more reliable and stable.",
+        "The closing method adopts a multi-point pressing structure of the radiation rod, safe and reliable.",
+        "The equipment is connected to the water source without manual replenishment. After the customer chooses the program, the equipment can complete the whole process from water injection to drying without human intervention.",
+        "After the program is completed, the sound prompts sterilization to be completed",
+        " Built-in high speed steam generator, no external steam source, save time and effort.",
+        "With mobile temperature sensor, can meet the special requirements of the laboratory.",
+        "Pressure, mechanical and electronic three-layer safety interlock device, with over-temperature protection and over-pressure protection, can eliminate all safety risks.",
+        "The quick release is the side cover and the top cover, which is convenient for equipment maintenance and cleaning."
+      ],
+      "tableRows": [
+        {
+          "feature": "Model",
+          "specifications": "BKQ-Z150H, BKQ-Z200H, BKQ-Z300H, BKQ-Z360H"
+        },
+        {
+          "feature": "Capacity",
+          "specifications": "150L, 200L, 300L, 360L"
+        },
+        {
+          "feature": "Max Designed Pressure",
+          "specifications": "-0.1/0.3MPa"
+        },
+        {
+          "feature": "Working Pressure",
+          "specifications": "0.23MPa"
+        },
+        {
+          "feature": "Working Temp.",
+          "specifications": "105 〜134°C"
+        },
+        {
+          "feature": "Noise",
+          "specifications": "≤85dB"
+        },
+        {
+          "feature": "Vacuum System",
+          "specifications": "Water circulating vacuum pump"
+        },
+        {
+          "feature": "chamber Material",
+          "specifications": "S30408"
+        },
+        {
+          "feature": "Power Supply",
+          "specifications": "380V/50HZ"
+        },
+        {
+          "feature": "Consumption",
+          "specifications": "20kVA"
+        },
+        {
+          "feature": "External Size(W*D*H)mm",
+          "specifications": "1190*940*1780, 1400*940*1780, 1570*1170*1980, 1570*1170*1980"
+        },
+        {
+          "feature": "Chamber Size(mm)",
+          "specifications": "φ500*780, φ500*1020, φ650*980, φ650*1130"
+        },
+        {
+          "feature": "Package Size(W*D*H)mm",
+          "specifications": "1385*1110*2080, 1585*1110*2080, 1755*1330*2270, 1755*1330*2270"
+        },
+        {
+          "feature": "Gross Weight",
+          "specifications": " 520, 600, 755, 770"
+        }
       ]
     }
   ]
