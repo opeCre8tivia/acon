@@ -30,7 +30,7 @@ const ProductCard = ({ item }: Props) => {
       <div className="text-teal-400 text-sm font-bold text-center my-4">
         {item.name}
       </div>
-      <div className="text-gray-400 text-[12px] font-normal text-justify ">
+      <div className="text-gray-800 text-[12px] font-normal text-justify ">
         {item.caption}
       </div>
 

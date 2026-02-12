@@ -32,7 +32,7 @@ const HomePageProductCategories = () => {
         {item.title}
       </div>
 
-      <div className="w-full h-[130px] px-4 text-center text-gray-400 overflow-hidden line-clamp-3">
+      <div className="w-full h-[130px] px-4 text-center text-gray-600 overflow-hidden line-clamp-3">
         {item.description}
       </div>
 
