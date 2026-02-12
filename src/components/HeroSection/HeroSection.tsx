@@ -1,6 +1,10 @@
 import Image from "next/image";
 import React from "react";
 
+import healthWorker from "../../../public/healthworker.png"
+import promotor960 from "../../../public/promotor960.png"
+import immunoassay from "../../../public/immunoassay.png"
+
 type Props = {};
 
 const HeroSection = (props: Props) => {
@@ -14,7 +18,7 @@ const HeroSection = (props: Props) => {
               alt="health worker wearing  sky blue gloves"
               width={300}
               height={300}
-              src={"/healthworker.png"}
+              src={healthWorker.src}
               style={{ objectFit: "cover", width: "auto", height: "auto" }}
             />
           </div>
@@ -26,7 +30,7 @@ const HeroSection = (props: Props) => {
                 alt="molecular diagnostics machine"
                 width={150}
                 height={150}
-                src={"/promotor960.png"}
+                src={promotor960.src}
                 style={{
                   objectFit: "cover",
                   margin: "auto",
@@ -41,7 +45,7 @@ const HeroSection = (props: Props) => {
                 alt="Immunoassay electronic equipment"
                 width={150}
                 height={150}
-                src={"/immunoassay.png"}
+                src={immunoassay.src}
                 style={{ margin: "auto", width: "auto", height: "auto" }}
               />
             </div>

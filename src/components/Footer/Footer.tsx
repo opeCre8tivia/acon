@@ -15,6 +15,8 @@ const Footer = (props: Props) => {
         >
           <Image
             alt="acon logo"
+            width={10}
+            height={10}
             src="/logo.svg"
             style={{ width: "80px", height: "80px", objectFit: "contain" }}
           />

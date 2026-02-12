@@ -12,6 +12,8 @@ const OtherFooter = (props: Props) => {
           <div className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900">
             <Image
               alt="acon logo"
+              width={10}
+              height={10}
               src="/logo.svg"
               style={{ width: "80px", height: "80px", objectFit: "contain" }}
             />
