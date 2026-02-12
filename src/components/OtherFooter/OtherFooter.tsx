@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 type Props = {};
 
@@ -9,7 +10,8 @@ const OtherFooter = (props: Props) => {
       <div className="mx-auto max-w-screen-xl text-center">
         <Link href="/">
           <div className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900">
-            <img
+            <Image
+              alt="acon logo"
               src="/logo.svg"
               style={{ width: "80px", height: "80px", objectFit: "contain" }}
             />

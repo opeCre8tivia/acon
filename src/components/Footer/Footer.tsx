@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import ScrollIntoView from "react-scroll-into-view";
@@ -12,7 +13,8 @@ const Footer = (props: Props) => {
           href="#"
           className="flex flex-col justify-center items-center text-2xl font-semibold text-gray-900"
         >
-          <img
+          <Image
+            alt="acon logo"
             src="/logo.svg"
             style={{ width: "80px", height: "80px", objectFit: "contain" }}
           />
