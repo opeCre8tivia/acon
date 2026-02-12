@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-import { categories } from "../../utils/products.json";
+import productsData from "../../utils/products.json";
 import Link from "next/link";
 
 type Category = {
@@ -13,6 +13,10 @@ type Category = {
 };
 
 const HomePageProductCategories = () => {
+
+  const { categories } = productsData;
+
+  
   const CategoryCard = ({ item }: { item: Category }) => (
     <div className="h-[250px] bg-gray-100 flex flex-col justify-between mb-6 py-4">
       <div className="w-full h-[100px] flex justify-center items-center">

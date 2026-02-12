@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import { Product } from "../../../types/types.ds";
-import { products } from "../../../utils/products.json";
+import productData from "../../../utils/products.json";
 import Image from "next/image";
 import { FaCheckCircle } from "react-icons/fa";
 import NavBar from "@/components/NavBar/NavBar";
@@ -10,6 +10,8 @@ import OtherFooter from "@/components/OtherFooter/OtherFooter";
 type Props = {};
 
 const Details = (props: Props) => {
+
+  const {products} = productData
   /**
    * page dispalays details of a product in a pre define format
    *

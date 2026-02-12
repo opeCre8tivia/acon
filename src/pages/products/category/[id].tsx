@@ -1,7 +1,7 @@
 import { Category, Product } from "@/types/types.ds";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
-import { categories, products } from "../../../utils/products.json";
+import productData from "../../../utils/products.json";
 import Image from "next/image";
 import ProductCard from "@/components/ProductCard/ProductCard";
 import OtherFooter from "@/components/OtherFooter/OtherFooter";
@@ -10,6 +10,10 @@ import NavBar from "@/components/NavBar/NavBar";
 type Props = {};
 
 const ProductsByCategory = (props: Props) => {
+
+  const { categories, products } = productData
+
+  
   const router = useRouter();
   const id = router.query.id;
 

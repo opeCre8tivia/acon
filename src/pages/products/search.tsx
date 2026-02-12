@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React, { useState, useEffect } from "react";
-import { categories, products } from "../../utils/products.json";
+import productData from "../../utils/products.json";
 import Image from "next/image";
 import { Category, Product } from "@/types/types.ds";
 import { useRouter } from "next/router";
@@ -11,6 +11,10 @@ import OtherFooter from "@/components/OtherFooter/OtherFooter";
 type Props = {};
 
 const Search = (props: Props) => {
+
+  const { categories, products } = productData
+
+  
   const [categoryList, setCategoryList] = useState<Category[] | null>(null);
   const [productList, setProductList] = useState<Product[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<number | null>(null);
